@@ -1,0 +1,12 @@
+/*===== IMPORT =====*/
+@import './tools/variables.scss';
+@import './components/app.scss';
+@import './components/header.scss';
+
+
+/*===== GENERAL STYLE =====*/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
