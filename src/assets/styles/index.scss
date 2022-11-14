@@ -3,10 +3,70 @@
 @import './components/app.scss';
 @import './components/header.scss';
 
+@font-face {
+  font-family: "PublicSansLight";
+  src: url("/src/assets/fonts/PublicSans-Light.ttf") format("truetype");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "PublicSansRegular";
+  src: url("/src/assets/fonts/PublicSans-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "PublicSansBold";
+  src: url("/src/assets/fonts/PublicSans-Bold.ttf") format("truetype");
+  font-weight: 700;
+}
+
 
 /*===== GENERAL STYLE =====*/
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "PublicSansRegular", Helvetica, sans-serif;
+}
+
+
+/*--- 404 ---*/
+.page-404{
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  gap: 2rem;
+  &__title{
+    font-size: 2rem;
+    font-weight: 900;
+    color: #234d60;
+  }
+  &__img{
+    background: url("/src/assets/images/404.gif") no-repeat center;
+    background-size: 100%;
+    width: 500px;
+    height: 200px;
+  }
+  &__btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    color: #234d60;
+    height: 60px;
+    width: 175px;
+    font-size: 1rem;
+    font-weight: bold;
+    border: 2px solid #70c7c2;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: all .25s;
+    &:hover{
+      background-color: #70c7c2;
+      color: white;
+      border: 2px solid #234d60;
+      font-size: .95rem;
+    }
+  }
 }

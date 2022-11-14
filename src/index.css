@@ -1,16 +1,144 @@
 /*===== IMPORT =====*/
+/*==============================
+            VARIABLES
+==============================*/
+/* PRIMARY */
+/* Dark Blue */
+/* Lime Green */
+/* Bright Cyan */
+/* NEUTRAL */
+/* Grayish Blue */
+/* Light Grayish Blue */
+/* Very Light Gray */
+/* White */
 .header {
   display: flex;
   flex-flow: row nowrap;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
 }
 
+.logo {
+  background: url("/src/assets/images/logo.svg") center no-repeat;
+  background-size: 100%;
+  height: 100px;
+  width: 150px;
+}
+
+.nav {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  gap: 0.5rem;
+  background-color: transparent;
+}
+.nav-link {
+  text-decoration: none;
+  color: hsl(233deg, 8%, 62%);
+  font-weight: 300;
+}
+.nav-link:hover {
+  color: black;
+}
+.nav__container-menu {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+.nav__menu-on {
+  background: url("/src/assets/images/icon-hamburger.svg") center no-repeat;
+  background-size: 100%;
+  height: 50px;
+  width: 50px;
+}
+.nav__menu-off {
+  background: url("/src/assets/images/icon-close.svg") center no-repeat;
+  background-size: 100%;
+  height: 50px;
+  width: 50px;
+}
+
+.request-invite {
+  text-decoration: none;
+  color: white;
+  background: linear-gradient(90deg, hsl(136deg, 65%, 51%), hsl(192deg, 70%, 51%));
+  padding: 0.8rem 2rem;
+  border-radius: 5rem;
+  font-weight: 400;
+}
+
+@media screen and (max-width: 768px) {
+  nav {
+    background-color: white;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-self: center;
+    align-items: center;
+  }
+}
+@font-face {
+  font-family: "PublicSansLight";
+  src: url("/src/assets/fonts/PublicSans-Light.ttf") format("truetype");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "PublicSansRegular";
+  src: url("/src/assets/fonts/PublicSans-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "PublicSansBold";
+  src: url("/src/assets/fonts/PublicSans-Bold.ttf") format("truetype");
+  font-weight: 700;
+}
 /*===== GENERAL STYLE =====*/
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "PublicSansRegular", Helvetica, sans-serif;
+}
+
+/*--- 404 ---*/
+.page-404 {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  gap: 2rem;
+}
+.page-404__title {
+  font-size: 2rem;
+  font-weight: 900;
+  color: #234d60;
+}
+.page-404__img {
+  background: url("/src/assets/images/404.gif") no-repeat center;
+  background-size: 100%;
+  width: 500px;
+  height: 200px;
+}
+.page-404__btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  color: #234d60;
+  height: 60px;
+  width: 175px;
+  font-size: 1rem;
+  font-weight: bold;
+  border: 2px solid #70c7c2;
+  border-radius: 10px;
+  text-decoration: none;
+  transition: all 0.25s;
+}
+.page-404__btn:hover {
+  background-color: #70c7c2;
+  color: white;
+  border: 2px solid #234d60;
+  font-size: 0.95rem;
 }
 
 /*# sourceMappingURL=index.css.map */
