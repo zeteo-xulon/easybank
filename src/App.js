@@ -10,6 +10,10 @@ export default function App() {
       <Header />
       <Routes>
         <Route exact path="/" element={<Home />} />
+        <Route exact path="/about" element={<Home />} />
+        <Route exact path="/contact" element={<Home />} />
+        <Route exact path="/blog" element={<Home />} />
+        <Route exact path="/career" element={<Home />} />
         <Route path="*" element={<Page404 />} />
       </Routes>
       <Footer />

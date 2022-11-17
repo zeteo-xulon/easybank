@@ -3,12 +3,7 @@
   flex-flow: row nowrap;
   justify-content: space-around;
   align-items: center;
-}
-.logo{
-  background: url("/src/assets/images/logo.svg") center no-repeat;
-  background-size: 100%;
-  height: 100px;
-  width: 150px;
+  height: 5rem;
 }
 .nav{
   display: flex;
@@ -24,6 +19,39 @@
       color: black;
     }
   }
+  &__link-container{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    &__bg{
+      display: none;
+      position:absolute;
+      z-index: 99;
+      background: linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7));
+      width: 100%;
+      height: 80%;
+      top: 3rem;
+      
+      left: 0;
+    }
+    &--sm{
+      position: absolute;
+      z-index: 100;
+      display: flex;
+      flex-flow: column nowrap;
+      justify-content: center;
+      align-items: center;
+      gap: 1rem;
+      background-color: white;
+      width: 90%;
+      padding: 1rem;
+      top: 4rem;
+      left: 5%;
+      border-radius: 5px;
+    }
+  }
   &__container-menu{
     display: flex;
     justify-content: center;
@@ -32,17 +60,20 @@
   &__menu-on{
     background: url("/src/assets/images/icon-hamburger.svg") center no-repeat;
     background-size: 100%;
-    height: 50px;
-    width: 50px;
+    height: 5vw;
+    width: 5vw;
   }
   &__menu-off{
     background: url("/src/assets/images/icon-close.svg") center no-repeat;
     background-size: 100%;
-    height: 50px;
-    width: 50px;
+    height: 5vw;
+    width: 5vw;
   }
 }
 .request-invite{
+  display: flex;
+  justify-content: center;
+  align-items: center;
   text-decoration: none;
   color: white;
   background: linear-gradient(90deg, $primary-color-two, $primary-color-three);
@@ -50,16 +81,31 @@
   border-radius: 5rem;
   font-weight: 400;
 }
-.nav__menu-on{
-  
+.header-request{
+  display: flex;
 }
+.nav__menu-on{}
 
 @media screen and (max-width: 768px) {
-  nav{
+  .header{
+    height: 3rem;
+  }
+  .nav{
     background-color: white;
     display: flex;
     flex-flow: column nowrap;
     justify-self: center;
     align-items: center;
+    &-link{
+      color: black;
+    }
+    &__link-container{
+      &__bg{
+        display: block;
+      }
+    }
+  }
+  .header-request{
+    display: none;
   }
 }

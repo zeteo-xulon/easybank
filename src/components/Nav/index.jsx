@@ -39,13 +39,20 @@ export default function Nav() {
       </div>
 
      
-        <div className="nav__link-container">
-          <Link to={"/"} className="nav-link">Home</Link>
-          <Link to={"/about"} className="nav-link">About</Link>
-          <Link to={"/contact"} className="nav-link">Contact</Link>
-          <Link to={"/blog"} className="nav-link">Blog</Link>
-          <Link to={"/careers"} className="nav-link">Careers</Link>
-        </div> 
+       {
+        !smartphoneSize || toggleMenu ? 
+          <>
+            <div className="nav__link-container__bg"></div>
+            <div className={ !smartphoneSize ? "nav__link-container" : "nav__link-container--sm"}> 
+              <Link to={"/"} className="nav-link">Home</Link>
+              <Link to={"/about"} className="nav-link">About</Link>
+              <Link to={"/contact"} className="nav-link">Contact</Link>
+              <Link to={"/blog"} className="nav-link">Blog</Link>
+              <Link to={"/careers"} className="nav-link">Careers</Link>
+            </div>
+          </>
+          : ""
+        }
 
     </nav>
   );

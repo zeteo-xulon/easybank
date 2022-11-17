@@ -1,0 +1,26 @@
+.footer{
+  display: flex;
+  justify-content: space-around;
+  background-color: $primary-color-one;
+  padding: 2rem 0rem;
+  
+  &__logo-link-container{
+    display: flex;
+    flex-flow: row nowrap;
+    gap: 1rem;
+  }
+  &__link-container{
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+  &__link{
+    text-decoration: none;
+    color: $Neutral-color-four;
+  }
+}
+.social-media__link-container{
+  height:100%;
+}
