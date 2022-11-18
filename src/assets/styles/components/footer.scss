@@ -2,17 +2,17 @@
   display: flex;
   justify-content: space-around;
   background-color: $primary-color-one;
-  padding: 2rem 0rem;
+  padding: 2rem 1rem;
   
   &__logo-link-container{
     display: flex;
     flex-flow: row nowrap;
-    gap: 1rem;
+    gap: 10vw;
   }
   &__link-container{
     display: flex;
     flex-flow: column nowrap;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: flex-start;
     gap: 1rem;
   }
@@ -20,7 +20,56 @@
     text-decoration: none;
     color: $Neutral-color-four;
   }
+  &__btn-copyright__container{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    flex-flow: column nowrap;
+    padding: 0rem 0rem 3rem 2rem;
+    gap: 1rem;
+    &__copyright{
+      color: $Neutral-color-one;
+    }
+  }
 }
 .social-media__link-container{
-  height:100%;
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  justify-content: space-between;
+  height:25px;
+  width:100%;
+}
+.social-media-logo{
+  height: 20px;
+  width: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .footer{
+    flex-flow: column nowrap;
+    align-items: center;
+    gap: 1rem;
+    &__logo-link-container{
+      flex-flow: column nowrap;
+      align-items: center;
+      justify-content: center;
+      gap: 1rem;
+    }
+    &__link-container{
+      flex-flow: column nowrap;
+      align-items: center;
+    }
+    &__btn-copyright__container{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-flow: column nowrap;
+      padding: 2rem;
+      gap: 2rem;
+      &__copyright{
+        color: $Neutral-color-one;
+      }
+    }
+  }
 }

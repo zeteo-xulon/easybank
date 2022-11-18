@@ -1,10 +1,13 @@
 import { Link } from "react-router-dom";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useContext } from "react";
+import { DataContext } from "../DataProvider";
 
 export default function Nav() {
   const [smartphoneSize, setSmartphoneSize] = useState(false);
   const [toggleMenu, setToggleMenu] = useState(false);
   const [stockedWidth, setStockedWidth] = useState(0);
+  const data = useContext(DataContext);
+  
   useEffect(()=> {
     window.addEventListener('resize', () => { setStockedWidth(window.innerWidth) });
     return window.removeEventListener('resize', () => { setStockedWidth(0)})
@@ -29,6 +32,11 @@ export default function Nav() {
     }
   },[smartphoneSize, toggleMenu])
   
+  
+  useEffect(()=>{
+    data.setPhoneSize(smartphoneSize)
+    // eslint-disable-next-line
+  },[smartphoneSize])
 
   return (
     <nav className='nav'>

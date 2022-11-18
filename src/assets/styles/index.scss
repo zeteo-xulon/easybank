@@ -3,6 +3,8 @@
 @import './components/app.scss';
 @import './components/header.scss';
 @import './components/footer.scss';
+@import './components/generation.scss';
+@import './components/reason.scss';
 
 @font-face {
   font-family: "PublicSansLight";
@@ -74,4 +76,27 @@
       font-size: .95rem;
     }
   }
+}
+.request-invite{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: white;
+  background: linear-gradient(90deg, $primary-color-two, $primary-color-three);
+  padding: .8rem 2rem;
+  border-radius: 5rem;
+  font-weight: 400;
+  max-width: 300px;
+  min-width: 225px;
+  &:hover{
+    -webkit-filter: saturate(0.5) brightness(1.3);
+            filter: saturate(0.5) brightness(1.3);
+  }
+}
+.not-show{
+  display: none;
+}
+.show{
+  display: block;
 }
