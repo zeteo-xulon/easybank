@@ -1,8 +1,8 @@
 .reason{
   display: flex;
   flex-flow: column nowrap;
-  background-color: $Neutral-color-three;
-  padding: 5rem 10vw;
+  background-color: $Neutral-color-two;
+  padding: 5rem $sideSize;
   gap: 3rem;
   &__list{
     display: flex;

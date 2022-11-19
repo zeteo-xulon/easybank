@@ -5,6 +5,7 @@
 @import './components/footer.scss';
 @import './components/generation.scss';
 @import './components/reason.scss';
+@import './components/articles.scss';
 
 @font-face {
   font-family: "PublicSansLight";
@@ -89,6 +90,7 @@
   font-weight: 400;
   max-width: 300px;
   min-width: 225px;
+  transition: all .25s;
   &:hover{
     -webkit-filter: saturate(0.5) brightness(1.3);
             filter: saturate(0.5) brightness(1.3);

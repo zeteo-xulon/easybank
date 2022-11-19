@@ -5,7 +5,7 @@ import { DataContext } from "../DataProvider";
 export default function Nav() {
   const [smartphoneSize, setSmartphoneSize] = useState(false);
   const [toggleMenu, setToggleMenu] = useState(false);
-  const [stockedWidth, setStockedWidth] = useState(0);
+  const [stockedWidth, setStockedWidth] = useState(window.innerWidth);
   const data = useContext(DataContext);
   
   useEffect(()=> {

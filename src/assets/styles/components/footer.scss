@@ -19,6 +19,10 @@
   &__link{
     text-decoration: none;
     color: $Neutral-color-four;
+    transition: all .25s;
+    &:hover{
+      color: $primary-color-two;
+    }
   }
   &__btn-copyright__container{
     display: flex;
@@ -32,19 +36,33 @@
     }
   }
 }
-.social-media__link-container{
+.social-media{
+  &__link-container{
   display: flex;
   flex-flow: row nowrap;
   align-items: center;
   justify-content: space-between;
-  height:25px;
-  width:100%;
-}
-.social-media-logo{
-  height: 20px;
-  width: 20px;
+  gap: .5rem;
+  }
+  &__logo{
+    height: 1rem;
+    width: 1rem;
+    cursor: pointer;
+    -webkit-filter: grayscale(1) brightness(4.5);
+            filter: grayscale(1) brightness(4.5);
+    transition: all .25s;
+    &:hover{
+      -webkit-filter: grayscale(0) brightness(1);
+              filter: grayscale(0) brightness(1);
+    }
+  }
 }
 
+
+
+
+
+/*==== MEDIA QUERIES ====*/
 @media screen and (max-width: 768px) {
   .footer{
     flex-flow: column nowrap;

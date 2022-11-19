@@ -1,11 +1,11 @@
 import { Link } from "react-router-dom";
 import RequestInviteBtn from "../RequestInviteBtn";
 import { ReactComponent as LogoWhite } from '../../assets/images/logo_white.svg';
-import { ReactComponent as FBIcon } from '../../assets/images/icon-facebook.svg';
-import { ReactComponent as YTIcon } from '../../assets/images/icon-youtube.svg';
-import { ReactComponent as TwitIcon } from '../../assets/images/icon-twitter.svg';
-import { ReactComponent as PinIcon } from '../../assets/images/icon-pinterest.svg';
-import { ReactComponent as InstaIcon } from '../../assets/images/icon-instagram.svg';
+import fbicon from '../../assets/images/icon-facebook.svg';
+import yticon from '../../assets/images/icon-youtube.svg';
+import twiticon from '../../assets/images/icon-twitter.svg';
+import pinicon from '../../assets/images/icon-pinterest.svg';
+import instaicon from '../../assets/images/icon-instagram.svg';
 
 export default function Footer() {
   return (
@@ -16,11 +16,11 @@ export default function Footer() {
         <div className="footer__link-container">
           <LogoWhite className="logo" />
           <div className="social-media__link-container">
-            <a href="www.facebook.com" className="social-media__link"><FBIcon className="social-media-logo" /></a>
-            <a href="www.youtube.com" className="social-media__link"><YTIcon className="social-media-logo" /></a>
-            <a href="www.twitter.com" className="social-media__link"><TwitIcon className="social-media-logo" /></a>
-            <a href="www.pinterest.com" className="social-media__link"><PinIcon className="social-media-logo" /></a>
-            <a href="www.instagram.com" className="social-media__link"><InstaIcon className="social-media-logo" /></a>
+            <img src={fbicon} className="social-media__logo" alt="facebook icon" onClick={()=>{ window.location.href = "https://www.facebook.com/" }} />
+            <img src={yticon} className="social-media__logo" alt="youtube icon" onClick={()=>{ window.location.href = "https://www.youtube.com/" }} />
+            <img src={twiticon} className="social-media__logo" alt="twitter icon" onClick={()=>{ window.location.href = "https://twitter.com/" }} />
+            <img src={pinicon} className="social-media__logo" alt="pinterest icon" onClick={()=>{ window.location.href = "https://www.pinterest.com/" }} />
+            <img src={instaicon} className="social-media__logo" alt="instagram icon" onClick={()=>{ window.location.href = "https://www.instagram.com/" }} />
           </div>
         </div>
 
