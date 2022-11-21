@@ -24,7 +24,7 @@
   gap: .8rem;
   width: 25%;
   min-width: 300px;
-  max-width: 500px;
+  max-width: 350px;
   background-color: $Neutral-color-four;
   border-radius: 5px;
   overflow: hidden;
@@ -49,5 +49,26 @@
   }
   &__text{
     color: $Neutral-color-one;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .articles{
+    &__title{
+     
+    }
+    &__post-container{
+      flex-flow: column nowrap;
+      align-items: center;
+      justify-content: center;
+    }
+  }
+  .post{
+
+    &__img{}
+    &__text-container{}
+    &__author{}
+    &__title{}
+    &__text{}
   }
 }

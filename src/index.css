@@ -207,12 +207,13 @@
   justify-content: center;
   width: 100%;
   height: 26rem;
-  padding: 2rem 0vw 2rem 5vw;
+  padding: 0rem 0vw 2rem 5vw;
   background-color: hsl(0deg, 0%, 98%);
 }
 .generation__text-container {
   display: flex;
   flex-flow: column nowrap;
+  align-items: flex-start;
   width: 50%;
   gap: 2rem;
   padding: 1rem 0rem;
@@ -239,9 +240,9 @@
 .generation__img-mockup {
   z-index: 9;
   position: relative;
-  left: 3vw;
-  height: 65vw;
-  width: 57VW;
+  left: 18vw;
+  height: 45vw;
+  width: 35vw;
   bottom: 5vw;
 }
 .generation__hidden {
@@ -259,9 +260,40 @@
   .generation {
     flex-flow: column-reverse nowrap;
     height: 100%;
+    padding: 0rem 0rem 2rem 0rem;
+  }
+  .generation__text-container {
+    align-items: center;
+    width: 100%;
+    padding: 2rem 10vw;
+    gap: 1rem;
+  }
+  .generation__title {
+    font-size: 1.7rem;
+    text-align: center;
+  }
+  .generation__text {
+    font-size: 0.65rem;
+    color: hsl(233deg, 8%, 62%);
+    line-height: 1rem;
+    text-align: center;
   }
   .generation__img-container {
     width: 100%;
+    height: 14.5rem;
+  }
+  .generation__img-bg {
+    bottom: 3rem;
+  }
+  .generation__img-mockup {
+    height: 21rem;
+    width: 17rem;
+    bottom: 5.9rem;
+    left: 0.4rem;
+  }
+  .generation__hidden2 {
+    width: 18rem;
+    margin: auto;
   }
 }
 .reason {
@@ -345,7 +377,7 @@
   gap: 0.8rem;
   width: 25%;
   min-width: 300px;
-  max-width: 500px;
+  max-width: 350px;
   background-color: hsl(0deg, 0%, 100%);
   border-radius: 5px;
   overflow: hidden;
@@ -373,6 +405,47 @@
   color: hsl(233deg, 8%, 62%);
 }
 
+@media screen and (max-width: 768px) {
+  .articles__post-container {
+    flex-flow: column nowrap;
+    align-items: center;
+    justify-content: center;
+  }
+}
+.request-invite {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: white;
+  background: linear-gradient(90deg, hsl(136deg, 65%, 51%), hsl(192deg, 70%, 51%));
+  padding: 0.8rem 2rem;
+  border-radius: 5rem;
+  font-weight: 400;
+  max-width: 300px;
+  min-width: 225px;
+  transition: all 0.25s;
+}
+.request-invite:hover {
+  -webkit-filter: saturate(0.5) brightness(1.3);
+  filter: saturate(0.5) brightness(1.3);
+}
+
+.not-show {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+@media screen and (max-width: 768px) {
+  .request-invite {
+    max-width: 200px;
+    min-width: 150px;
+    font-size: 0.7rem;
+  }
+}
 @font-face {
   font-family: "PublicSansLight";
   src: url("/src/assets/fonts/PublicSans-Light.ttf") format("truetype");
@@ -443,33 +516,6 @@
   color: white;
   border: 2px solid #234d60;
   font-size: 0.95rem;
-}
-
-.request-invite {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-decoration: none;
-  color: white;
-  background: linear-gradient(90deg, hsl(136deg, 65%, 51%), hsl(192deg, 70%, 51%));
-  padding: 0.8rem 2rem;
-  border-radius: 5rem;
-  font-weight: 400;
-  max-width: 300px;
-  min-width: 225px;
-  transition: all 0.25s;
-}
-.request-invite:hover {
-  -webkit-filter: saturate(0.5) brightness(1.3);
-  filter: saturate(0.5) brightness(1.3);
-}
-
-.not-show {
-  display: none;
-}
-
-.show {
-  display: block;
 }
 
 /*# sourceMappingURL=index.css.map */
