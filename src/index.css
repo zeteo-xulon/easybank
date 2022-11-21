@@ -406,6 +406,9 @@
 }
 
 @media screen and (max-width: 768px) {
+  .articles {
+    align-items: center;
+  }
   .articles__post-container {
     flex-flow: column nowrap;
     align-items: center;
