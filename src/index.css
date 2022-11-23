@@ -449,6 +449,84 @@
     font-size: 0.7rem;
   }
 }
+.contact {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  width: 100%;
+  gap: 2rem;
+  padding: 2rem 5vw;
+  height: 80vh;
+}
+.contact__text-container {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: flex-start;
+  width: 100%;
+}
+.contact__title {
+  font-size: 2rem;
+  font-weight: 400;
+}
+.contact__text {
+  color: hsl(233deg, 8%, 62%);
+}
+.contact__form {
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 1rem;
+  width: 100%;
+  height: 100%;
+}
+.contact__form__input-title {
+  border: 2px solid hsl(233deg, 8%, 62%);
+  border-radius: 5px;
+  padding: 0.5rem;
+  max-width: 50rem;
+}
+.contact__form__input-title:focus {
+  border: 2px solid hsl(136deg, 65%, 51%);
+}
+.contact__form__text-container {
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 0.5rem;
+}
+.contact__form__input-textarea {
+  border: 2px solid hsl(233deg, 8%, 62%);
+  border-radius: 5px;
+  padding: 0.5rem;
+  height: 30vh;
+  max-width: 50rem;
+}
+.contact__form__input-textarea:focus {
+  border: 2px solid hsl(136deg, 65%, 51%);
+}
+.contact__btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: white;
+  background: linear-gradient(90deg, hsl(136deg, 65%, 51%), hsl(192deg, 70%, 51%));
+  padding: 0.8rem 2rem;
+  border-radius: 5rem;
+  border: none;
+  font-weight: 400;
+  max-width: 300px;
+  min-width: 225px;
+  transition: all 0.25s;
+}
+.contact__btn:hover {
+  -webkit-filter: saturate(0.5) brightness(1.3);
+  filter: saturate(0.5) brightness(1.3);
+}
+
+@media screen and (max-width: 768px) {
+  .contact {
+    padding: 2rem 10vw;
+  }
+}
 @font-face {
   font-family: "PublicSansLight";
   src: url("/src/assets/fonts/PublicSans-Light.ttf") format("truetype");
