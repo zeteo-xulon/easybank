@@ -3,9 +3,11 @@
   flex-flow: column nowrap;
   align-items: center;
   width: 100%;
+  max-width: 50rem;
   gap: 2rem;
   padding: 2rem $sideSize;
   height: 80vh;
+  margin: auto;
   &__text-container{
     display: flex;
     flex-flow: column nowrap;
