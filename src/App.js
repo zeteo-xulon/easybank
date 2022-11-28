@@ -5,6 +5,7 @@ import Home from "./components/Home";
 import Contact from './components/Contact'
 import Page404 from "./components/Page404";
 import About from './components/About';
+import Careers from "./components/Careers";
 
 export default function App() {
   return (
@@ -15,7 +16,7 @@ export default function App() {
         <Route exact path="/about" element={<About />} />
         <Route exact path="/contact" element={<Contact />} />
         <Route exact path="/blog" element={<Home />} />
-        <Route exact path="/career" element={<Home />} />
+        <Route exact path="/careers" element={<Careers />} />
         <Route path="*" element={<Page404 />} />
       </Routes>
       <Footer />
