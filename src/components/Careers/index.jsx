@@ -37,42 +37,46 @@ export default function Careers() {
   return (
     <section className="careers">
 
-      <article className="careers__intro">
-        <h1 className="careers__intro__title">Work at EasyBank</h1>
-        <p className="careers__intro__sub">We’re building banking for startups. We prioritize beauty, usability, and simplicity.</p>
-        <a href="#openroles">see our open roles</a>
-        <p className="careers__intro__text">EasyBank is a financial technology company, and a bank. Banking services provided by Choice Financial Group and Evolve Bank & Trust®; Members GMAA.</p>
-      </article>
+      <div className="careers__container">
 
-    <article className="career__values">
-      <h2 className="career__values__title">Our values</h2>
-      <p className="careers__values__sub">We care about what we’re building and how we build it.</p>
+        <article className="careers__intro">
+          <h1 className="careers__intro__title">Work at EasyBank</h1>
+          <p className="careers__intro__sub">We’re building banking for startups. We prioritize beauty, usability, and simplicity.</p>
+          <a href="#openroles" className="careers__intro__link">see our open roles</a>
+          <p className="careers__intro__text">EasyBank is a financial technology company, and a bank. Banking services provided by Choice Financial Group and Evolve Bank & Trust®; Members GMAA.</p>
+        </article>
 
-      <aside className="careers__values__container">
-        {
-          textList.map((item)=>{
-            return(
-              <div key={"careers__text-box-" + item.id} className="careers__values__text-box">
-                <h3 className="careers__values__text-box__title">{item.title}</h3>
-                <p className="careers__values__text-box__text">{item.text}</p>
-              </div>
-            )
-          })
-        }
-      </aside>
+        <article className="careers__values">
+          <h2 className="careers__values__title">Our values</h2>
+          <p className="careers__values__sub">We care about what we’re building and how we build it.</p>
 
-    </article>
+          <aside className="careers__values__container">
+            {
+              textList.map((item)=>{
+                return(
+                  <div key={"careers__text-box-" + item.id} className="careers__values__text-box">
+                    <h3 className="careers__values__text-box__title">{item.title}</h3>
+                    <p className="careers__values__text-box__text">{item.text}</p>
+                  </div>
+                )
+              })
+            }
+          </aside>
 
-    <article className="careers__roles" id='openroles'>
-      <div className="careers__roles__header">
-        <h4 className="careers__roles__header__title">Open Roles</h4>
-        <p className="careers__roles__header__sub">Interested in doing something not listed here? Contact us on our contact page.</p>
+        </article>
+
+        <article className="careers__roles" id='openroles'>
+          <div className="careers__roles__header">
+            <h4 className="careers__roles__header__title">Open Roles</h4>
+            <p className="careers__roles__header__sub">Interested in doing something not listed here? Contact us on our contact page.</p>
+          </div>
+
+          <div className="careers__roles__job">
+
+          </div>
+        </article>
+        
       </div>
-
-      <div className="careers__roles__job">
-
-      </div>
-    </article>
 
     </section>
   );
