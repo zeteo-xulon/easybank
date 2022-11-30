@@ -31,3 +31,43 @@
     }
   }
 }
+
+@media screen and(max-width: 768px) {
+  .blog{
+    display: flex;
+    flex-flow: column nowrap;
+    gap: .7rem;
+    width: 100%;
+    padding: 4rem $sideSize;
+    &__title{
+      @include bigTitle;
+    }
+    &__sub-text{
+      font-size: 1.1rem;
+      color: $Neutral-color-one;
+      margin-bottom: 4rem;
+    }
+    &__article-container{
+      display: flex;
+      gap: 2rem;
+      flex-flow:column nowrap;
+  
+      & > .articles__post-container{
+        flex-flow: column;
+        gap: 4rem;
+        & > .post{
+          flex-flow: column nowrap;
+          width: 100%;
+          max-width: none;
+          min-width: none;
+          & > .post__img{
+            max-width: 100%;
+          }
+          & > .post__text-container{
+            padding: 0rem;
+          }
+        }
+      }
+    }
+  }
+}

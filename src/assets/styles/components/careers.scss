@@ -16,11 +16,11 @@
     flex-flow: column;
     gap: 1.3rem;
     &__title{
-      font-size: 2.5rem;
+      font-size: clamp(1.7rem, 5vw, 2.5rem);
       font-weight: 400;
     }
     &__sub{
-      font-size: .9rem;
+      font-size: clamp(.9rem, 3vw, 1.3rem);
     }
     &__link{
       @include btn;
@@ -33,7 +33,7 @@
       }
     }
     &__text{
-      font-size: .6rem;
+      font-size: clamp(.6rem, 2.5vw, .8rem);;
       color: $Neutral-color-one;
     }
   }
@@ -45,11 +45,11 @@
     gap: 1rem;
     max-width: 40rem;
     &__title{
-      font-size: 2.5rem;
+      font-size: clamp(1.7rem, 5vw, 2.5rem);
       font-weight: 400;
     }
     &__sub{
-      font-size: .9rem;
+      font-size: clamp(.9rem, 3vw, 1.3rem);
       margin-bottom: 2rem;
     }
     &__container{
@@ -63,29 +63,14 @@
       gap: .5rem;
       width: 45%;
       &__title{
-        font-size: 1.2rem;
+        font-size: clamp(1rem, 5vw, 1.5rem);
         font-weight: 700;
       }
       &__text{
         font-weight: 300;
         color: $Neutral-color-one;
-        font-size: .9rem;
+        font-size: clamp(.9rem, 3vw, 1.2rem);
       }
-    }
-  }
-
-
-  &__roles{
-    &__header{
-      &__title{
-
-      }
-      &__sub{
-
-      }
-    }
-    &__job{
-      
     }
   }
 }

@@ -658,11 +658,11 @@
   gap: 1.3rem;
 }
 .careers__intro__title {
-  font-size: 2.5rem;
+  font-size: clamp(1.7rem, 5vw, 2.5rem);
   font-weight: 400;
 }
 .careers__intro__sub {
-  font-size: 0.9rem;
+  font-size: clamp(0.9rem, 3vw, 1.3rem);
 }
 .careers__intro__link {
   display: flex;
@@ -688,7 +688,7 @@
   filter: saturate(0.5) brightness(1.3);
 }
 .careers__intro__text {
-  font-size: 0.6rem;
+  font-size: clamp(0.6rem, 2.5vw, 0.8rem);
   color: hsl(233deg, 8%, 62%);
 }
 .careers__values {
@@ -698,11 +698,11 @@
   max-width: 40rem;
 }
 .careers__values__title {
-  font-size: 2.5rem;
+  font-size: clamp(1.7rem, 5vw, 2.5rem);
   font-weight: 400;
 }
 .careers__values__sub {
-  font-size: 0.9rem;
+  font-size: clamp(0.9rem, 3vw, 1.3rem);
   margin-bottom: 2rem;
 }
 .careers__values__container {
@@ -717,14 +717,15 @@
   width: 45%;
 }
 .careers__values__text-box__title {
-  font-size: 1.2rem;
+  font-size: clamp(1rem, 5vw, 1.5rem);
   font-weight: 700;
 }
 .careers__values__text-box__text {
   font-weight: 300;
   color: hsl(233deg, 8%, 62%);
-  font-size: 0.9rem;
+  font-size: clamp(0.9rem, 3vw, 1.2rem);
 }
+
 @media screen and (max-width: 768px) {
   .careers {
     display: flex;
@@ -805,6 +806,98 @@
   max-width: 30%;
 }
 
+@media screen and (max-width: 768px) {
+  .blog {
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 0.7rem;
+    width: 100%;
+    padding: 4rem 5vw;
+  }
+  .blog__title {
+    font-size: 3rem;
+    font-weight: 400;
+  }
+  .blog__sub-text {
+    font-size: 1.1rem;
+    color: hsl(233deg, 8%, 62%);
+    margin-bottom: 4rem;
+  }
+  .blog__article-container {
+    display: flex;
+    gap: 2rem;
+    flex-flow: column nowrap;
+  }
+  .blog__article-container > .articles__post-container {
+    flex-flow: column;
+    gap: 4rem;
+  }
+  .blog__article-container > .articles__post-container > .post {
+    flex-flow: column nowrap;
+    width: 100%;
+    max-width: none;
+    min-width: none;
+  }
+  .blog__article-container > .articles__post-container > .post > .post__img {
+    max-width: 100%;
+  }
+  .blog__article-container > .articles__post-container > .post > .post__text-container {
+    padding: 0rem;
+  }
+}
+.story {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column nowrap;
+  width: 60%;
+  margin: 5rem auto;
+  gap: 2rem;
+  transition: all 0.25s;
+}
+.story__img {
+  width: 100%;
+  height: 35vw;
+  -o-object-fit: cover;
+  object-fit: cover;
+  margin-bottom: 2rem;
+}
+.story__text-container {
+  display: flex;
+  flex-flow: column;
+  gap: 3rem;
+}
+.story__title {
+  font-size: clamp(2.2rem, 5vw, 3.3rem);
+  font-weight: 400;
+}
+.story__text {
+  font-size: clamp(1.1rem, 3vw, 1.4rem);
+  text-align: justify;
+}
+.story__author {
+  color: hsl(233deg, 8%, 62%);
+  font-size: 0.9rem;
+  font-weight: 300;
+}
+
+@media screen and (max-width: 960px) {
+  .story {
+    width: 80%;
+  }
+}
+@media screen and (max-width: 768px) {
+  .story {
+    width: 90%;
+    margin: 2.5rem auto;
+  }
+  .story__title {
+    font-size: clamp(1.7rem, 10vw, 2.5rem);
+  }
+  .story__text {
+    font-size: clamp(0.9rem, 5vw, 1.5rem);
+  }
+}
 @font-face {
   font-family: "PublicSansLight";
   src: url("/src/assets/fonts/PublicSans-Light.ttf") format("truetype");

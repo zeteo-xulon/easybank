@@ -22,7 +22,10 @@ $sideSizeSm: 10vw;
   font-size: 3rem;
   font-weight: 400;
 }
-
+@mixin midTitle {
+  font-size: 2.7rem;
+  font-weight: 400;
+}
 @mixin title {
   font-size: 2.5rem;
   font-weight: 400;

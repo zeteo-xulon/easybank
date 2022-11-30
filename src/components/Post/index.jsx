@@ -8,8 +8,12 @@ function Post() {
         <img className='story__img' src={article.picture} alt='visual of the post' />
         <div className="story__text-container">
           <h1 className="story__title">{article.title}</h1>
-          <p className="story__text">{article.longText}</p>
-          <p className="story__author">By {article.author}</p>
+          {
+            article?.longText?.map((text)=>{ 
+              return <p className="story__text">{text}</p>}
+              )
+          }
+          <h3 className="story__author">By {article.author}</h3>
         </div>
     </section>
   );

@@ -1,4 +1,4 @@
-
+import Roles from "../Roles";
 
 const textList = [
   {
@@ -35,18 +35,18 @@ const textList = [
 
 export default function Careers() {
   return (
-    <section className="careers">
+    <div className="careers">
 
       <div className="careers__container">
 
-        <article className="careers__intro">
+        <section className="careers__intro">
           <h1 className="careers__intro__title">Work at EasyBank</h1>
           <p className="careers__intro__sub">We’re building banking for startups. We prioritize beauty, usability, and simplicity.</p>
           <a href="#openroles" className="careers__intro__link">see our open roles</a>
           <p className="careers__intro__text">EasyBank is a financial technology company, and a bank. Banking services provided by Choice Financial Group and Evolve Bank & Trust®; Members GMAA.</p>
-        </article>
+        </section>
 
-        <article className="careers__values">
+        <section className="careers__values">
           <h2 className="careers__values__title">Our values</h2>
           <p className="careers__values__sub">We care about what we’re building and how we build it.</p>
 
@@ -63,21 +63,12 @@ export default function Careers() {
             }
           </aside>
 
-        </article>
+        </section>
 
-        <article className="careers__roles" id='openroles'>
-          <div className="careers__roles__header">
-            <h4 className="careers__roles__header__title">Open Roles</h4>
-            <p className="careers__roles__header__sub">Interested in doing something not listed here? Contact us on our contact page.</p>
-          </div>
-
-          <div className="careers__roles__job">
-
-          </div>
-        </article>
+        <Roles />
         
       </div>
 
-    </section>
+    </div>
   );
 }
