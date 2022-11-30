@@ -69,30 +69,34 @@ const articles = [
   }
 ]
 
-export default function Articles() {
+export default function Blog() {
   return (
-    <section className='articles'>
-      <h1 className="articles__title">Latest Articles</h1>
-      <div className="articles__post-container">
-       {
-        articles && articles.map((post) => {
-          return(
-            <Link 
-            to={"/blog/" + post.url}
-            key={`${post.author + post.id}`} 
-            className='post'
-            state={{ article: post }}
-            >
-              <img className='post__img' src={post.picture} alt='visual of the post' />
-              <div className="post__text-container">
-                <p className="post__author">By {post.author}</p>
-                <h3 className="post__title">{post.title}</h3>
-                <p className="post__text">{post.text}</p>
-              </div>
-            </Link>
-            )
-          })
-        } 
+    <section className="blog">
+      <h1 className="blog__title">Blog</h1>
+      <p className="blog__sub-text">You can follow our legacy to achieve the best of banking and finance in our latest article.</p>
+      <div className="blog__article-container">
+        <h2 className="articles__title">Latest Articles</h2>
+        <div className="articles__post-container">
+        {
+          articles && articles.map((post) => {
+            return(
+              <Link 
+              to={"/blog/" + post.url} 
+              key={`${post.author + post.id}`} 
+              className='post'
+              state={{ article: post }}
+              >
+                <img className='post__img' src={post.picture} alt='visual of the post' />
+                <div className="post__text-container">
+                  <p className="post__author">By {post.author}</p>
+                  <h3 className="post__title">{post.title}</h3>
+                  <p className="post__text">{post.text}</p>
+                </div>
+              </Link>
+              )
+            })
+          } 
+        </div>
       </div>
       
     </section>

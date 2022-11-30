@@ -1,0 +1,33 @@
+.blog{
+  display: flex;
+  flex-flow: column nowrap;
+  gap: .7rem;
+  width: 100%;
+  padding: 4rem $sideSize;
+  &__title{
+    @include bigTitle;
+  }
+  &__sub-text{
+    font-size: 1.1rem;
+    color: $Neutral-color-one;
+    margin-bottom: 4rem;
+  }
+  &__article-container{
+    display: flex;
+    gap: 2rem;
+    flex-flow:column nowrap;
+
+    & > .articles__post-container{
+      flex-flow: column;
+      & > .post{
+        flex-flow: row nowrap;
+        width: 100%;
+        max-width: none;
+        min-width: none;
+        & > .post__img{
+          max-width: 30%;
+        }
+      }
+    }
+  }
+}

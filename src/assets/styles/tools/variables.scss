@@ -12,8 +12,21 @@ $Neutral-color-two: hsl(220, 16%, 96%); /* Light Grayish Blue */
 $Neutral-color-three: hsl(0, 0%, 98%); /* Very Light Gray */
 $Neutral-color-four: hsl(0, 0%, 100%); /* White */
 
+
 $sideSize: 5vw;
 $sideSizeSm: 10vw;
+
+
+
+@mixin bigTitle {
+  font-size: 3rem;
+  font-weight: 400;
+}
+
+@mixin title {
+  font-size: 2.5rem;
+  font-weight: 400;
+}
 
 @mixin btn {
   display: flex;

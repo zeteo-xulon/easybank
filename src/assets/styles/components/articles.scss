@@ -28,6 +28,11 @@
   background-color: $Neutral-color-four;
   border-radius: 5px;
   overflow: hidden;
+  text-decoration: none;
+  &:hover > .post__text-container > .post__title{
+    color: $primary-color-two;
+  }
+  
   &__img{
     width: 100%;
     height: 12rem;;
@@ -45,7 +50,9 @@
     color: $Neutral-color-one;
   }
   &__title{
+    color: black;
     font-weight: 400;
+    transition: all .25s;
   }
   &__text{
     color: $Neutral-color-one;

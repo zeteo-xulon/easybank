@@ -381,6 +381,10 @@
   background-color: hsl(0deg, 0%, 100%);
   border-radius: 5px;
   overflow: hidden;
+  text-decoration: none;
+}
+.post:hover > .post__text-container > .post__title {
+  color: hsl(136deg, 65%, 51%);
 }
 .post__img {
   width: 100%;
@@ -399,7 +403,9 @@
   color: hsl(233deg, 8%, 62%);
 }
 .post__title {
+  color: black;
   font-weight: 400;
+  transition: all 0.25s;
 }
 .post__text {
   color: hsl(233deg, 8%, 62%);
@@ -765,6 +771,40 @@
     max-width: none;
   }
 }
+.blog {
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 0.7rem;
+  width: 100%;
+  padding: 4rem 5vw;
+}
+.blog__title {
+  font-size: 3rem;
+  font-weight: 400;
+}
+.blog__sub-text {
+  font-size: 1.1rem;
+  color: hsl(233deg, 8%, 62%);
+  margin-bottom: 4rem;
+}
+.blog__article-container {
+  display: flex;
+  gap: 2rem;
+  flex-flow: column nowrap;
+}
+.blog__article-container > .articles__post-container {
+  flex-flow: column;
+}
+.blog__article-container > .articles__post-container > .post {
+  flex-flow: row nowrap;
+  width: 100%;
+  max-width: none;
+  min-width: none;
+}
+.blog__article-container > .articles__post-container > .post > .post__img {
+  max-width: 30%;
+}
+
 @font-face {
   font-family: "PublicSansLight";
   src: url("/src/assets/fonts/PublicSans-Light.ttf") format("truetype");
