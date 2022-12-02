@@ -1,0 +1,1523 @@
+[
+  {
+    "categoryName": "Business Development",
+    "jobs" : [
+      {
+        "id": 1,
+        "jobname": "Capital Advisor - Venture Debt",
+        "details": {
+          "localisation": "all",
+          "worktime": "Full-time",
+          "skills":[],
+          "company": "EasyBank",
+          "jobIntroText": [
+            "We are looking for a Capital Advisor to help manage Venture Debt opportunities and the associated credit risk that we take on from extending capital to our customers.",
+            "As a Capital Advisor, you’ll be focused on managing the due diligence, deal structuring, underwriting, legal, booking, monitoring, and reporting of credit relationships. You will exercise your lending expertise to put capital into the hands of businesses that are ready for our products.",
+            "You’ll have an opportunity to support some of the most exciting startups and their founders in achieving their funding goals and have an influence on how our product develops to meet their needs."
+          ],
+          "todoListTitle": "Here are some things you’ll do on the job:",
+          "todoList": [
+            "Partner with Relationship Managers to manage capital opportunities.",
+            "Manage the due diligence and deal structuring process in proposing opportunities to the capital committee and credit leads.",
+            "Lead calls with internal and external stakeholders in presenting and reviewing new capital opportunities.",
+            "Manage the legal documentation and closing process to get deals booked and funded.",
+            "Monitor monthly financial performance of borrowers to manage risk appropriately.",
+            "Work cross-functionally with the product team as a subject matter expert to help improve and build out EasyBank’s capital platform.",
+            "Channel your inner entrepreneur to find ways to refine and improve processes and innovate on the way we approach capital."
+          ],
+          "prerequisiteListTitle": "You should:",
+          "prerequisiteList": [
+            "Bachelor’s degree or equivalent experience.",
+            "Have at least 4 years of experience in a credit or investment analyst role.",
+            "Be a self-starter with the ability to work independently.",
+            "Strong time management, communication, negotiation, and organizational skills.",
+            "Have experience reviewing business financials and have the confidence to learn new credit philosophies quickly.",
+            "Write with clarity and purpose.",
+            "Pay extremely close attention to detail.",
+            "Be open to giving and receiving feedback.",
+            "ove problem solving and making teams, products, and processes more efficient.",
+            "Delight in providing an exceptional customer experience.",
+            "Have a strong product sense.",
+            "Be organized even when you’re working on a hundred different things."
+          ],
+          "salaryTextList": [
+            "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+            "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+            "The salary range for candidates in the New York City or San Francisco area is $120,000–$145,000.",
+            "The salary range for candidates in the US outside of the New York City / San Francisco area is $100,000–$123,000.",
+            "The salary range for candidates in Canada is CAD 112,000–129,000."
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "jobname": "Sales Development Lead",
+        "details":{
+          "localisation": "all",
+          "worktime": "Full-time",
+          "skills":[],
+          "company": "EasyBank",
+          "jobIntroText": [
+            "5.4 million businesses were created in the US during 2021 and sharing EasyBank’s finance technology with all of them is no easy feat. We are looking for our first Sales Development Lead to join the go-to-market organization and help us take our lead generation and outreach strategies to the next level."
+          ],
+          "todoListTitle": "Here are some things you’ll do on the job:",
+          "todoList": [
+            "Build a high-performing team excited to share about the modern financial stack.",
+            "Roll up your sleeves to test, measure, and create a scalable playbook for your team.",
+            "Identify new, untapped communities of startups and eCommerce companies.",
+            "Leverage reporting to uncover trends or signals in our outreach.",
+            "Review team emails to ensure our messaging is tight and on-point for our prospects.",
+            "Help reinforce a culture of coaching, enablement, and career advancement."
+          ],
+          "prerequisiteListTitle": "You should:",
+          "prerequisiteList": [
+            "Have a bachelor’s degree or something you feel is equivalent.",
+            "Have at least 2 years of experience in SaaS Sales.",
+            "Have a track record of achieving your sales targets.",
+            "Have strong written and verbal communication skills.",
+            "Have a strong product mindset to help identify new opportunities for EasyBank to better serve customers.",
+            "Have experience managing people or be a top performer excited about the opportunity to.",
+            "Be passionate about team building and upleveling those around you.",
+            "Enjoy creating repeatable processes that make your team more efficient.",
+            "Be able to thrive in a fast-paced, high-growth environment with minimal guidance, apply first principles thinking, and navigate uncertainty with poise."
+          ],
+          "salaryTextList": [
+            "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+            "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+            "The salary range for candidates in the New York City or San Francisco area is $140,000–$165,000.",
+            "The salary range for candidates in the US outside of the New York City / San Francisco area is $122,000–$145,000.",
+            "The salary range for candidates in Canada is CAD 128,000–147,000."
+          ]
+        }
+      },
+      {
+        "id": 3,
+        "jobname": "Venture Debt Team Lead - EasyBank Capital",
+        "details":{
+          "localisation": "all",
+          "worktime": "Full-time",
+          "skills":[],
+          "company": "EasyBank",
+          "jobIntroText": [
+            "We are looking for a Venture Debt Team Lead to help lead and grow our Venture Debt lending practice, and manage the associated credit risk that we take on from extending capital to our customers.",
+            "As a Venture Debt Team Lead, you’ll be focused on managing and developing a team of Capital Advisors to perform due diligence, deal structuring, underwriting, legal, booking, monitoring, and reporting of credit relationships. You will exercise your lending expertise to put capital into the hands of businesses that are ready for our products and influence the direction of future product offerings as we grow with our customers.",
+            "You’ll have an opportunity to support some of the most exciting startups and their founders in achieving their funding goals and have an influence on how our product develops to meet their needs."
+          ],
+          "todoListTitle": "Here are some things you’ll do on the job:",
+          "todoList": [
+            "Oversee due diligence and deal structuring process in proposing opportunities to prospective venture debt customers.",
+            "Manage pipeline, the legal documentation, and closing process to get deals booked and funded.",
+            "Partner with Head of VC Partnerships and Business Development to facilitate channel growth in new venture debt opportunities.",
+            "Lead calls with key external stakeholders including investors and bank capital providers to position venture debt opportunities and manage credit risk.",
+            "Monitor overall portfolio performance of borrowers to manage risk appropriately.",
+            "Work cross-functionally with the product team as a subject matter expert to help improve and build out EasyBank’s capital platform.",
+            "Channel your inner entrepreneur to find ways to refine and improve processes and innovate on the way we approach capital."
+          ],
+          "prerequisiteListTitle": "You should:",
+          "prerequisiteList": [
+            "Bachelor’s degree or equivalent experience.",
+            "Have at least 8 years of experience in a credit or investment analyst role.",
+            "Be a self-starter with the ability to work independently.",
+            "Strong time management, communication, negotiation, and organizational skills.",
+            "Have experience reviewing business financials and have the confidence to learn new credit philosophies quickly.",
+            "Write with clarity and purpose.",
+            "Pay extremely close attention to detail.",
+            "Be open to giving and receiving feedback.",
+            "Love problem solving and making teams, products, and processes more efficient.",
+            "Delight in providing an exceptional customer experience.",
+            "Have a strong product sense.",
+            "Be organized even when you’re working on a hundred different things."
+          ],
+          "salaryTextList": [
+            "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+            "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+            "The salary range for candidates in the New York City or San Francisco area is $185,000–$223,000.",
+            "The salary range for candidates in the US outside of the New York City / San Francisco area is $165,000–$190,000.",
+            "The salary range for candidates in Canada is CAD 161,000–185,000."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "categoryName":"Compliance",
+    "jobs": [
+    {
+      "id": 1,
+      "jobname": "Compliance Support Specialist",
+      "details":{
+        "localisation": "all",
+        "worktime": "Full-time",
+        "skills":[],
+        "company": "EasyBank",
+        "jobIntroText": [
+          "We’re looking to hire a Compliance Support Specialist to adjudicate Watch List suspect alerts and provide ongoing Compliance support for customer accounts during the account lifecycle.",
+          "As a Compliance Support Specialist, you’ll be responsible for handling limit request increases, gathering transaction information to respond to EDD requests from partners, managing the account balance reconciliation process, responding to general Compliance questions, escalating to the appropriate investigations teams when needed, and reviewing sanctions, Politically Exposed Persons (“PEP”), and Adverse Media alerts to determine if there is a true match. You will have direct responsibility for quickly processing customer and partner requests, with minimal impact to applicants and customers, while protecting EasyBank from potential sanctions violations and reputational risk. You will report directly to the Compliance Manager and will be supported by a highly functional Compliance team."
+        ],
+        "todoListTitle": "Here are some things you’ll do on the job:",
+        "todoList": [
+          "Respond to limit request increases from high and moderate risk users, while reviewing account and transactional activity, to determine if aligned with expected account usage",
+          "Maintain a positive user experience, while mitigating any potential fraud loss or risk to EasyBank",
+          "Be proactive in utilizing tools available to research and gather Enhanced Due Diligence (“EDD”), as requested by partners, reaching out to customers to obtain additional information in the least disruptive manner, as needed",
+          "Handle the account balance reconciliation process, notifying users of negative balances, and requesting deposits to cover overdrafts",
+          "Escalate potentially suspicious and/or fraudulent activity to the Investigations Team for further review",
+          "Respond to Compliance support requests in the mailbox and Slack channels, related to limit increases, negative balance reconciliation, and other non-fraud account operations inquiries",
+          "Triage Fraud Notices, Wire Recalls, Subpoenas, and other communications received to the appropriate Investigation Teams and Compliance Officer, as needed",
+          "Minimize EasyBank’s sanctions exposure and reputational risk through the review and adjudication of sanctions, PEP, and Adverse Media alerts",
+          "Manage a high-volume caseload within service level agreements and with critical attention to detail",
+          "Document rationale for alert decisions with supporting documentation",
+          "Identify opportunities to reduce unnecessary volumes through false positive rule proposals",
+          "Remain up to date on AML and sanctions regulations and procedures"
+        ],
+        "prerequisiteListTitle": "You should:",
+        "prerequisiteList": [
+          "Be a highly motivated self-starter, comfortable working within a high risk environment under minimal supervision",
+          "Be accountable for accuracy of information gathered while maintaining quality control standards",
+          "Have experience and/or academic knowledge of Office of Foreign Assets Control (“OFAC”), foreign sanctions such as EU/UN, PEP, Adverse Media, and other AML Watch List types",
+          "Delight in providing an exceptional customer experience",
+          "Work with efficiency and focus",
+          "Write with clarity and purpose",
+          "Prioritize requests and keep track of follow-ups",
+          "Manage relationships with external parties with confidence and kindness",
+          "Love problem solving and making teams, products, and processes more efficient",
+          "Have some product sense and knowledge of systems such as ACH, International Wires, SWIFT, checks, and debit cards",
+          "Be curious about the US financial system, startups, and ecommerce companies"
+        ],
+        "salaryTextList": [
+          "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+          "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+          "The salary range for candidates in the New York City or San Francisco area is $80,000–$103,000.",
+          "The salary range for candidates in the US outside of the New York City / San Francisco area is $75,000–$88,000.",
+          "The salary range for candidates in Canada is CAD 80,000–92,000."
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "jobname": "Compliance Support Team Lead",
+      "details":{
+        "localisation": "all",
+        "worktime": "Full-time",
+        "skills":[],
+        "company": "EasyBank",
+        "jobIntroText": [
+          "We’re looking to hire a Compliance Support Team Lead to manage a team of AML and sanctions professionals who are responsible for working a handful of customer-facing compliance queues. Balancing regulatory compliance with delivering a magical customer experience is the name of the game for this team.",
+          "As a Compliance Support Team Lead, you will be responsible for handling sanctions escalations, providing guidance on KYC requests from partners and risk reviews of customers, all while upholding our commitment to exceptional customer service. You will also work on impactful projects to improve the efficiency and effectiveness of the compliance support function as a whole, by partnering with our engineering, design, product, and customer support teams. You will report directly to the Senior Compliance Operations Manager and will be supported by a highly functional compliance team."
+        ],
+        "todoListTitle": "Here are some things you’ll do on the job:",
+        "todoList": [
+          "Hire and lead a team that is efficient, competent, and extremely knowledgeable about AML and sanctions regulations, our product and users, as well as the US banking system at large.",
+          "Improve team efficiency and effectiveness by setting and tracking performance metrics.",
+          "Provide guidance on escalated sanctions, PEP, and Adverse Media cases.",
+          "Work cross-functionally to improve our product, investigate thorny technical (either engineering or banking-related) issues, and fix bugs.",
+          "Collaborate with our banking partners to make product or process changes that help our users while staying compliant with regulations.",
+          "Identify opportunities to reduce unnecessary volumes through false positive rule proposals.",
+          "Remain up to date on AML and sanctions regulations and procedures.",
+          "Extend knowledge and learning across the compliance organization by augmenting or building tools and processes.",
+          "Help the team work towards extremely high standards on response quality, and create genuine customer love.",
+          "Work alongside the team on tickets when there are large issues, or when volume is unusually high."
+        ],
+        "prerequisiteListTitle": "You should:",
+        "prerequisiteList": [
+          "Have experience leading compliance teams, preferably in a high-growth environment, dealing with customers directly.",
+          "Be a highly motivated people leader, comfortable working within a high risk environment under minimal supervision.",
+          "Be extremely comfortable handling escalations and applying correct handling for Office of Foreign Assets Control (“OFAC”), PEP, Adverse Media, and other AML Watch List type cases.",
+          "Delight in providing an exceptional customer experience.",
+          "Manage relationships both internally and externally with confidence and kindness.",
+          "Love problem solving and making teams, products, and processes more efficient.",
+          "Have some product sense and knowledge of banking products such as ACH, International Wires, SWIFT, checks, and debit cards.",
+          "Be curious about the US banking system, startups, and ecommerce companies.",
+          "Enjoy learning new systems and processes in a fast paced environment.",
+          "Have excellent written and verbal communication skills.",
+          "Be obsessed with quality."
+        ],
+        "salaryTextList": [
+          "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+          "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+          "The salary range for candidates in the New York City or San Francisco area is $115,000–$144,000.",
+          "The salary range for candidates in the US outside of the New York City / San Francisco area is $106,000–$122,000.",
+          "The salary range for candidates in Canada is CAD 111,000–128,000."
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "jobname": "Dispute Resolutions Manager",
+      "details":{
+        "localisation": "all",
+        "worktime": "Full-time",
+        "skills":[],
+        "company": "EasyBank",
+        "jobIntroText": [
+          "We’re looking to hire a Disputes Resolution Manager to lead a team of disputes specialists.",
+          "Balancing risk management with delivering a magical customer experience is the name of the game for this team.",
+          "As the Disputes Resolution Manager, you will serve as the disputes subject matter expert, be responsible for tracking chargeback activity and success rates, driving operational and strategic planning, and defining and documenting business requirements, all while upholding our commitment to exceptional customer service. You will also work on impactful projects to improve the efficiency and effectiveness of the disputes function as a whole, by partnering with our engineering, design, product, and customer support teams."
+        ],
+        "todoListTitle": "Here are some things you’ll do on the job:",
+        "todoList": [
+          "Hire and lead a team that is efficient, competent, and extremely knowledgeable about disputes, our product and users, as well as the US banking system at large.",
+          "Improve team efficiency and effectiveness by setting and tracking performance metrics.",
+          "Provide guidance on escalated disputes cases.",
+          "Work cross-functionally to improve our product, investigate thorny technical issues, and fix bugs.",
+          "Collaborate with our banking partners to make product or process changes that help our users while staying compliant with regulations.",
+          "Extend knowledge and learning across the compliance organization by augmenting or building tools and processes.",
+          "Help the team work towards extremely high standards on response quality, and create genuine customer love.",
+          "Work alongside the team on tickets.",
+          "Serve as an expert for any disputes-related questions from our Support team.",
+          "Monitor dispute volume, identify trends, and build out reporting.",
+          "Track our chargeback success rate and identify opportunities to improve it.",
+          "Investigate third party alternatives for chargeback automation."
+        ],
+        "prerequisiteListTitle": "You should:",
+        "prerequisiteList": [
+          "Have experience leading compliance teams, preferably in a high-growth environment, dealing with customers directly.",
+          "Be a highly motivated people leader, comfortable working within a high risk environment under minimal supervision.",
+          "Delight in providing an exceptional customer experience.",
+          "Manage relationships both internally and externally with confidence and kindness.",
+          "Love problem solving and making teams, products, and processes more efficient.",
+          "Have some product sense and knowledge of banking products such as ACH, International Wires, SWIFT, checks, and debit cards.",
+          "Be curious about the US banking system, startups, and ecommerce companies.",
+          "Enjoy learning new systems and processes in a fast paced environment.",
+          "Have excellent written and verbal communication skills.",
+          "Be obsessed with quality.",
+          "Have prior experience filing chargebacks via Visa or MasterCard web interfaces and utilizing the fraud center.",
+          "Have working knowledge of Regulation E compliance.",
+          "Enjoy tracking data and analyzing trends."
+        ],
+        "salaryTextList": [
+          "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+          "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+          "The salary range for candidates in the New York City or San Francisco area is $125,000–$150,000.",
+          "The salary range for candidates in the US outside of the New York City / San Francisco area is $106,000–$127,000.",
+          "The salary range for candidates in Canada is CAD 111,000–128,000."
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "jobname": "Head of Investigations",
+      "details":{
+        "localisation": "all",
+        "worktime": "Full-time",
+        "skills":[],
+        "company": "EasyBank",
+        "jobIntroText": [
+          "We’re looking to hire a Head of Investigations to help grow and manage a team of AML, Fraud, and other Financial Crimes investigative professionals who work tirelessly to root out bad actors while offering a magical customer experience.",
+          "In this role, you’ll be responsible for daily oversight of a team of investigators that handle tasks including fraud and AML investigations, limit reviews, transaction monitoring queue work, and other customer-facing investigations items. You’ll need to learn how a really wide range of businesses work in the context of the payment networks we interact with, and bring your knowledge to bear on our processes and product.",
+          ""
+        ],
+        "todoListTitle": "As part of the journey, we would expect you to:",
+        "todoList": [
+          "Review and learn existing investigations team procedures, including transaction monitoring, limit requests, returned item tracking, and other operational processes, with the goal of streamlining workflows and assisting the team on tasks as needed.",
+          "Coordinate, direct, and streamline the activities of your team to ensure people are working on the most important things.",
+          "Build capacity planning metrics to evaluate individual performance and forecast hiring needs.",
+          "Partner with leadership to build and maintain KPIs most relevant to measuring individual and team success.",
+          "Support and develop individual contributors, solving problems as needed and acting as an escalation point for important issues.",
+          "Partner with Support, Engineering, and other teams to ensure compliance and risk-related concerns and trends are top of mind.",
+          "Influence product change that improves the lives of our customers and coworkers.",
+          "Live and breathe fraud and AML risk management, with an eye towards beating targets through correctness, not at the expense of customer experience."
+        ],
+        "prerequisiteListTitle": "Some things that might make you successful in a role like this:",
+        "prerequisiteList": [
+          "Have extensive experience managing teams at financial services companies.",
+          "Be passionate about leading a team and supporting each team member in pursuit of their career goals.",
+          "Enjoy gaining a very deep and granular understanding of all the people, processes, and systems that affect the performance of your team and their objectives.",
+          "Be fluent in the language of transactions, including ACH, check, debit card, and wire transfers, both domestic and international.",
+          "Understand the business banking landscape and have familiarity with international activity and ownership.",
+          "Exercise empathy and understanding when communicating with users.",
+          "Communicate complicated concepts with efficiency and clarity, both in speech and writing.",
+          "Manage relationships with external parties with confidence and kindness.",
+          "Love problem solving and making teams, product, and processes more efficient.",
+          "Enjoy thinking about how to automate as much of your job as possible.",
+          "Have a strong product sense."
+        ],
+        "salaryTextList": [
+          "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+          "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+          "The salary range for candidates in the New York City or San Francisco area is $160,000–$190,000.",
+          "The salary range for candidates in the US outside of the New York City / San Francisco area is $140,000–$170,500."
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "jobname": "Investigations Specialist",
+      "details":{
+        "localisation": "all",
+        "worktime": "Full-time",
+        "skills":[],
+        "company": "EasyBank",
+        "jobIntroText": [
+          "We’re looking to hire an Investigation Specialist to help us with Transaction Monitoring, Financial Crime Investigations, and Case Management.",
+          "As a member of our Investigations team, you’ll help handle our transaction monitoring queues while balancing an eagle eye for risk with excellent user experience. To begin with, you’ll work to help make sure we have smart, risk-based monitoring in place and help build out our case management technology and processes.",
+          "You’ll need to learn how a really wide range of businesses work and bring your knowledge to bear on our processes and product.",
+          "Some of this work is repetitive and requires close attention to detail, so we need someone who loves working fraud and anti-money laundering transaction queues and can tackle them with consistent focus day after day."
+        ],
+        "todoListTitle": "Here are some things you’ll do on the job:",
+        "todoList": [
+          "Provide input as we implement new transaction monitoring rules and tune existing ones.",
+          "Review fraud, AML, and other financial crime alerts in our transaction monitoring queue and take action as needed.",
+          "Contact our users for information on their account usage and transactions.",
+          "Work with our partners and internal team members to review and assess information received from users.",
+          "Decision user accounts as needed, including locking or closing accounts.",
+          "Develop an understanding of expected activity for each type of user we work with.",
+          "Document investigative findings and escalate unusual or potentially suspicious activity to our Partners for SAR consideration.",
+          "Develop an unfailing eye for potential fraud or money laundering.",
+          "Conduct enhanced due diligence (EDD) reviews on some of our highest risk users.",
+          "Investigate tools that would make your job easier.",
+          "Write clear documentation on current processes and help train future teammates."
+        ],
+        "prerequisiteListTitle": "You should:",
+        "prerequisiteList": [
+          "Have experience in detecting fraud, money laundering, or other financial crimes related behavior in banking, fintech, or other financial services through vendor AND in-house developed transaction monitoring rules.",
+          "Be fluent in the language of bank transactions, including ACH, check, debit card, credit card, and wire transfers, both domestic and international.",
+          "Understand the business banking landscape and have familiarity with international activity and ownership.",
+          "Exercise empathy and understanding when communicating with users.",
+          "Communicate complicated concepts with efficiency and clarity, both in speech and writing.",
+          "Manage relationships with external parties with confidence and kindness.",
+          "Work with efficiency and focus.",
+          "Understand how to keep an organized, clean inbox.",
+          "Love problem solving and making teams, product, and processes more efficient.",
+          "Derive joy from customer joy.",
+          "Keep track of what you’re working on even when you’re working on a hundred different things.",
+          "Enjoy thinking about how to automate as much of your job as possible.",
+          "Have a strong product sense.",
+          "Be curious about the US banking system, startups, and ecommerce companies."
+        ],
+        "salaryTextList": [
+          "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+          "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+          "The salary range for candidates in the New York City or San Francisco area is $86,000–$103,500.",
+          "The salary range for candidates in the US outside of the New York City / San Francisco area is $76,000–$88,000."
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "jobname": "Onboarding Specialist",
+      "details":{
+        "localisation": "all",
+        "worktime": "Full-time",
+        "skills":[],
+        "company": "EasyBank",
+        "jobIntroText": [
+          "Building EasyBank has turned out to be a pretty wild endeavor, so we’re looking to bring someone smart onto our compliance team to help us out.",
+          "As an Onboarding Specialist, you’ll be focused on getting accounts open for startups from all over the world. These companies will range from the latest hot Silicon Valley tech startup cracking cheap space travel to a Peruvian farm growing sustainable coffee, so you’ll be exposed to a pretty wide range of characters and ideas.",
+          "You’ll make getting an account for a startup easier than buying groceries, and you’ll also sniff out and catch bad actors, balancing protection of our company with a great user experience."
+        ],
+        "todoListTitle": "Here are some things you’ll do on the job:",
+        "todoList": [
+          "Review and enter business data for companies that have signed up for EasyBank.",
+          "Gain a deep understanding for the types of customers who are signing up and how we can adjust the product and user experience to match their needs.",
+          "Develop an unfailing eye for potential fraud and risky users and come up with sensible ways to productize it.",
+          "Gain an encyclopedic knowledge of business and identification document types.",
+          "Identify ways to make the application review process more efficient and automated.",
+          "Help with other daily tasks related to onboarding and compliance."
+        ],
+        "prerequisiteListTitle": "You should:",
+        "prerequisiteList": [
+          "Have experience reviewing business sign-ups and handle queue-based work, or have confidence you can learn quickly.",
+          "Write with clarity and purpose.",
+          "Pay extremely close attention to detail.",
+          "Work efficiently and independently, but know when to ask for help.",
+          "Understand how to prioritize your work and keep an organized, clean inbox.",
+          "Have great critical thinking skills and enjoy problem solving.",
+          "Have a desire to improve both internal and external processes and products.",
+          "Delight in providing an exceptional customer experience."
+        ],
+        "salaryTextList": [
+          "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+          "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+          "The salary range for candidates in the New York City or San Francisco area is $60,000–$72,000.",
+          "The salary range for candidates in the US outside of the New York City / San Francisco area is $53,000–$65,000.",
+          "The salary range for candidates in Canada is CAD 62,000–71,500"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "jobname": "Risk Operations Specialist",
+      "details":{
+        "localisation": "all",
+        "worktime": "Full-time",
+        "skills":[],
+        "company": "EasyBank",
+        "jobIntroText": [
+          "We’re looking to hire a Risk Operations Specialist to support our growing compliance team. This role will support our Compliance Support and Investigations teams in their ongoing quest to provide a magical customer experience while at the same time stopping bad actors.",
+          "As a Risk Operations Specialist, you’ll be responsible for reconciliation of funds across our multiple bank partners, triaging work for other teams to investigate, and routing negative balance accounts to our collection agency. You’ll need to learn how a really wide range of businesses work in the context of the payment networks we interact with, and bring your knowledge to bear on our processes and product."
+        ],
+        "todoListTitle": "Here are some things you’ll do on the job:",
+        "todoList": [
+          "Establish and review reconciliation queues to ensure funds are in the right place at the right time, escalating to our Engineering team as needed.",
+          "Create ad-hoc reconciliation queues and tracking mechanisms for payment types not yet built into the reconciliation product.",
+          "Work a daily queue of inquiry channels researching items and routing ones that need follow up from our Investigations and Compliance Support Teams.",
+          "Follow up with end users to resolve payment errors, negative balances or other account-specific issues.",
+          "Partner with Investigations Team to identify negative balance accounts worth sending to our collection agency, then following through and accounting for that activity.",
+          "Assist with audits and fulfilling subpoena requests.",
+          "Take the lead on resolving banking-related hiccups as they occur, such as check, ACH, or wire transfer transactions being posted erroneously.",
+          "Investigate tools that would make your job easier.",
+          "Other duties as assigned."
+        ],
+        "prerequisiteListTitle": "You should:",
+        "prerequisiteList": [
+          "Have experience working in a reconciliation and/or banking operations role, ideally within Fintech.",
+          "Be fluent in the language of financial transactions, including ACH, check, debit card and wire transfers, both domestic and international.",
+          "Understand the business banking landscape and have familiarity with international activity and ownership.",
+          "Exercise empathy and understanding when communicating with users.",
+          "Communicate complicated concepts with efficiency and clarity, both in speech and writing.",
+          "Love identifying potential problems and risks, while also offering solutions that maximize value to our customers.",
+          "Be curious; identify opportunities and be innovative in creating solutions.",
+          "Be obsessed with quality.",
+          "Derive joy from customer joy.",
+          "Have a strong product sense."
+        ],
+        "salaryTextList": [
+          "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+          "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+          "The salary range for candidates in the New York City or San Francisco area is $110,000–$135,000.",
+          "The salary range for candidates in the US outside of the New York City / San Francisco area is $98,000–$112,500.",
+          "The salary range for candidates in Canada is CAD 98,000–120,000."
+        ]
+      }
+    }
+  ]},
+  {
+    "categoryName":"Design",
+    "jobs": [
+      {
+        "id": 1,
+        "jobname": "Senior Product Designer",
+        "details":{
+          "localisation": "all",
+          "worktime": "Full-time",
+          "skills":[],
+          "company": "EasyBank",
+          "jobIntroText": [
+            "In 1954, in Columbus, Indiana, Eero Saarinen designed a branch office with glass walls, no offices, and a completely open floor plan. It was surrounded by trees; the furniture was made by Herman Miller; the lobby flooring was thick, rustic brick. It was built with transparency and community at its core.",
+            "Since 1954, a lot of things have happened—Saarinen’s branch is now a conference center, people increasingly live on the internet, and it’s hard to think of a single financial institution that still applies design thinking to their product.",
+            "We believe that in 2022 this revolves around thoughtful design, and we’re looking to add a product designer to our team to help."
+          ],
+          "todoListTitle": "You’ll:",
+          "todoList": [
+            "Take ownership of large portions of a complex product.",
+            "Work across the entire design stack, including: speccing projects; designing workflows, detailed interactions, and high-fidelity visuals; and ensuring quality implementation.",
+            "Find elegant solutions to user problems, and think critically from the user perspective.",
+            "Simplify and cull design elements with a ruthless eye.",
+            "Craft designs from first principles (referencing existing solutions is often a poor idea).",
+            "Imbue mundane tasks and flows with a feeling of wonder.",
+            "Prototype multiple visual and UX concepts and then narrow them to the right solution.",
+            "Explain and debate the reasoning behind your product decisions.",
+            "Work directly with the Design Team."
+          ],
+          "prerequisiteListTitle": "You should:",
+          "prerequisiteList": [
+            "Have the ability to design whole systems, not just interface elements or static pages.",
+            "Have experience and interest in the entire design stack, including UI/UX, visual design, and interaction design.",
+            "Have experience building for a variety of form factors, including mobile.",
+            "Understand when no design is the best design.",
+            "Have a strong personal design aesthetic and also understand the EasyBank aesthetic.",
+            "Want to create elegant, calm designs that predict and exceed users’ expectations.",
+            "Feel comfortable anticipating and designing for edge cases.",
+            "Understand the balance between perfect design and getting to market.",
+            "Exhibit kindness and humility in everyday interactions."
+          ],
+          "salaryTextList": [
+            "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+            "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+            "The salary range for candidates in the US is $164,000–$180,000.",
+            "The salary range for candidates in Canada is CAD 156,000–172,000."
+          ]
+        }
+      }]
+  },
+  {
+    "categoryName": "Engineering",
+    "jobs": [
+      {
+        "id": 1,
+        "jobname": "Backend Engineer",
+        "details":{
+          "localisation": "all",
+          "worktime": "Full-time",
+          "skills":["Haskell", "TypeScript", "Swift"],
+          "company": "EasyBank",
+          "jobIntroText": [
+            "We launched about two years ago with basic functionality, and now we’re refining our product and building out new features. Thankfully, our customers seem to like what we’ve built so far:"
+          ],
+          "todoListTitle": "Technically, we’re working on these challenges:",
+          "todoList": [
+            "Frontend — React, Typescript, Redux: Creating a beautiful user interface. We iterate on designs and don’t compromise until we have a great product.",
+            "Backend — Haskell, Yesod, Persistent: Integrating with services and third party APIs to accurately track financial data and make payments.",
+            "Operations — Nix, Postgres, AWS: Maintaining a stable, secure fleet of servers.",
+            "Mobile — Swift, Kotlin: We have native iOS and Android apps."
+          ],
+          "prerequisiteListTitle": "As a backend engineer, you’ll do things like:",
+          "prerequisiteList": [
+            "Provide a backend to our mobile and web frontends, to do things like search transactions or send wire transfers.",
+            "Integrate with third party APIs, to do things like send checks or validate SWIFT codes.",
+            "Build admin tools, to do things like identify fraudulent customers or help manage accounts."
+          ],
+          "salaryTextList": [
+            "While you would primarily work with Haskell, you’d preferably learn enough React and TypeScript to construct simple admin pages. The ideal candidate has done full-stack or backend engineering before, and is familiar with or wants to learn about Haskell.",
+            "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+            "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+            "The salary range for candidates in the US is $150,000–$180,000.",
+            "The salary range for candidates in Canada is CAD 144,000–158,000."
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "jobname": "Data Engineer",
+        "details":{
+          "localisation": "all",
+          "worktime": "Full-time",
+          "skills":[],
+          "company": "EasyBank",
+          "jobIntroText": [
+            "n the 1880s, Herman Hollerith noticed the US Census was taking over 8 years to calculate. To solve this, he invented a tabulating machine using punch cards that dramatically sped up the process and served as the foundation for innovation in high quality data gathering.",
+            "We’re looking for our first Data Engineer who can help us build our high quality data engine that informs how we invest in and build EasyBank’s future. You’ll be early to building a data-informed culture across EasyBank so that we can all determine what’s happening, react quickly, and invest intelligently."
+          ],
+          "todoListTitle": "Here are some things you’ll do on the job:",
+          "todoList": [
+            "Partner with leadership, engineers, and data scientists to understand data needs and build systems that deliver high quality and reliable data.",
+            "Own and maintain the data systems that extract, transform, and load data into internal and external tooling.",
+            "Apply proven expertise and build high-performance scalable data warehouses.",
+            "Design, build, and launch efficient & reliable data pipelines to move and transform data (both large and small amounts).",
+            "Design and develop new systems in partnership with software engineers to enable quick and easy consumption of data."
+          ],
+          "prerequisiteListTitle": "You should:",
+          "prerequisiteList": [
+            "Have 2+ years of experience working with analytics teams on building high quality and reliable data infrastructure.",
+            "Be able to navigate from architecture and implementation decisions related to data infrastructure to guide teams towards building reliable and accurate pipelines and company-critical data sets.",
+            "Have familiarity with postgres backend data, Snowflake, and data transformation tools like dbt.",
+            "Value quality in data tools, testing, and innovation."
+          ],
+          "salaryTextList": []
+        }
+      },
+      {
+        "id": 3,
+        "jobname": "Engineering Manager - Web Experience",
+        "details":{
+          "localisation": "all",
+          "worktime": "Full-time",
+          "skills":[],
+          "company": "EasyBank",
+          "jobIntroText": [
+            "Thomson’s gazelles exhibit a behavior known as “stotting,” where they spring straight up into the air with all four feet at once. One theory in evolutionary biology is that gazelles use stotting to signal to predators that they will be hard to catch. The behavior is hard to fake and backed by underlying evolutionary fitness.",
+            "In our opinion, EasyBank has built a strong, thoughtful product—our users value its intentional simplicity and quality of craft. But we don’t think our website and brand pages yet accurately signal our product and company’s underlying fitness, nor the value we provide our users.",
+            "As the Engineering Manager on our Web Experience team, you’ll work with our design, brand, and engineering teams to make our public web pages truly stellar, and to build products that showcase our product, brand, and company values to customers. You’ll work on the EasyBank.com homepage, static pages like EasyBank.com/customers, small products like our investor database, and other creative—but useful—experiences."
+          ],
+          "todoListTitle": "In this role, you will:",
+          "todoList": [
+            "Ensure a small but growing team of engineers executes at a high level of technical excellence and stability.",
+            "Create a fulfilling environment for engineers.",
+            "Have the confidence and competence to give feedback to engineers of all skill levels.",
+            "Hold the team (and EasyBank broadly) accountable to the needs of the engineers.",
+            "lign engineering work with EasyBank values.",
+            "Onboard new engineering hires.",
+            "Thoroughly review PRs. Maintain enough context to give thoughtful reviews. Assess the value of the code in terms of the team’s objectives.",
+            "Provide technical mentorship such as PR reviews, pair programming, and virtual whiteboarding."
+          ],
+          "prerequisiteListTitle": "You should:",
+          "prerequisiteList": [
+            "Have demonstrated the ability to lead a technical team.",
+            "Have a strong individual engineering skill set. You will go through roughly the same interview process as our individual contributors, with additional interviews for manager skills.",
+            "Have an interest in beautiful websites.",
+            "Have an interest in animation & community experiences."
+          ],
+          "salaryTextList": []
+        }
+      },
+      {
+        "id": 4,
+        "jobname": "Frontend Engineer",
+        "details":{
+          "localisation": "all",
+          "worktime": "Full-time",
+          "skills":["TypeScript", "React"],
+          "company": "EasyBank",
+          "jobIntroText": [
+            "We emphasize beauty and usability, and customers love the polish we put into our web app. We’re looking for a frontend engineer who’s excited to help us continue building out a quality product."
+          ],
+          "todoListTitle": "",
+          "todoList": [],
+          "prerequisiteListTitle": "At EasyBank, you’ll:",
+          "prerequisiteList": [
+            "Work on a beautiful app: Since many of our customers are startups, they appreciate a well-implemented design. We have high standards for our UI, and we think it shows on our website. We encourage you to sign up and check out our onboarding experience, or read our blog post about our date picker.",
+            "Push the limits of TypeScript: As a financial technology company, preventing errors is a top priority for us, and we take advantage of TypeScript’s advanced static typing features to prevent them.",
+            "Write clean React code: We have 78,425 lines of TypeScript and 14,145 lines of CSS—that’s a lot for a small team, so there’s no room for spaghetti code. React helps us keep it manageable.",
+            "Exercise ownership over the product: Our engineers work closely with our designers and contribute their own ideas on making the product better."
+          ],
+          "salaryTextList": [
+            "The ideal candidate can handle technical challenges like configuring a Webpack pipeline, but also cares deeply about user experience. You should also have a year of engineering experience or a computer science education. Experience with the frontend specifically is not required. Interest or experience in iOS, Android, or Haskell development is a plus.",
+            "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+            "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+            "The salary range for candidates in the US is $150,000–$180,000.",
+            "The salary range for candidates in Canada is CAD 144,000–158,000."
+          ]
+        }
+      },
+      {
+        "id": 5,
+        "jobname": "Full-stack Engineer",
+        "details":{
+          "localisation": "all",
+          "worktime": "Full-time",
+          "skills":["Haskell", "TypeScript", "Nix", "Swift"],
+          "company": "EasyBank",
+          "jobIntroText": [
+            "We launched about two years ago with basic functionality, and now we’re refining our product and building out new features. Thankfully, our customers seem to like what we’ve built so far:"
+          ],
+          "todoListTitle": "",
+          "todoList": [],
+          "prerequisiteListTitle": "Technically, we’re working on these challenges:",
+          "prerequisiteList": [
+            "Frontend — React, Typescript, Redux: Creating a beautiful user interface. We iterate on designs and don’t compromise until we have a great product.",
+            "Backend — Haskell, Yesod, Persistent: Integrating with services and third party APIs to accurately track financial data and make payments.",
+            "Operations — Nix, Postgres, AWS: Maintaining a stable, secure fleet of servers.",
+            "Mobile — Swift, Kotlin: We have native iOS and Android apps."
+          ],
+          "salaryTextList": [
+            "We’re looking for someone who is comfortable working across the stack. The ideal candidate has done full-stack development before, and is excited to learn and work with Haskell, React, and TypeScript.",
+            "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+            "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+            "The salary range for candidates in the US is $150,000–$180,000.",
+            "The salary range for candidates in Canada is CAD 144,000–158,000."
+          ]
+        }
+      },
+      {
+        "id": 6,
+        "jobname": "iOS Engineer",
+        "details":{
+          "localisation": "all",
+          "worktime": "Full-time",
+          "skills":[],
+          "company": "EasyBank",
+          "jobIntroText": [
+            "Our customers love our iOS app. We are expanding our mobile team to meet their needs with a slick experience, and new features."
+          ],
+          "todoListTitle": "In this role, you will:",
+          "todoList": [
+            "Be EasyBank’s second iOS engineer.",
+            "Write substantial portions of the EasyBank iOS app.",
+            "Work with a small mobile team of experienced Android and iOS Engineers who have been writing apps for over 10 years and mastered that craft.",
+            "Work with our design team to make EasyBank’s app beautiful. Many of our customers are startups and appreciate well-implemented designs. We have high standards for our UI.",
+            "Exercise ownership over the product and help define our path forward.",
+            "Prioritize quality and catch errors early. Preventing errors is a top priority for us, and we are taking advantage of Swift’s advanced static typing features to prevent them."
+          ],
+          "prerequisiteListTitle": "You should:",
+          "prerequisiteList": [
+            "Have ~3 years of iOS (UIKit) experience.",
+            "Have experience using Swift.",
+            "Be familiar with RxSwift. Or at least have an interest in it.",
+            "Have an interest in other parts of our stack (Kotlin, Jetpack Compose, TypeScript, React, and Haskell)."
+          ],
+          "salaryTextList": [
+            "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+            "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+            "The salary range for candidates in the US is $151,000–$231,000."
+          ]
+        }
+      }]
+  },
+  {
+    "categoryName":"Finance",
+    "jobs": [
+      {
+        "id": 1,
+        "jobname": "Accounting Manager",
+        "details":{
+          "localisation": "SF, NY, Portland, or remote",
+          "worktime": "Full-time",
+          "skills":[],
+          "company": "EasyBank",
+          "jobIntroText": [
+            "We are looking for an Accounting Manager as we transition our accounting function in-house and build a world-class team that’ll scale with the company. You will work closely on the monthly close, audits, reporting, finance operations, and tax compliance. This is your chance to get on the ground floor of the next best-in class finance and accounting team.",
+            "You should have a passion for start-ups and creating quality processes that grow. As a user of the product, this is a unique opportunity to give feedback on the features that create magic for accountants.",
+            "The ideal candidate is someone who loves the detailed nature of accounting and identifying reconciling items for the perfect tieout. You should understand the “why” behind each transaction and be able to articulate the big picture."
+          ],
+          "todoListTitle": "What you’ll do:",
+          "todoList": [
+            "Ensure a timely monthly close with accurate financial reporting. Ensure proper GAAP accounting and understand the transaction flow of accounts.",
+            "Help develop a process to identify accruals and coordinate with operational teams to obtain the necessary information.",
+            "Review supporting schedules such as prepaid expenses, amortization, fixed assets, and accruals.",
+            "Review monthly account reconciliations and journal entries.",
+            "Partner with Finance on flux analysis to understand the variances.",
+            "Manage the accounting staff as the team expands.",
+            "Ensure that invoices are paid in a timely manner.",
+            "Assist in the annual audit and help coordinate with tax and other outside parties."
+          ],
+          "prerequisiteListTitle": "You should:",
+          "prerequisiteList": [
+            "Have 7+ years of progressive accounting experience. Having both startup and public company experience is a huge plus, even better if in fintech.",
+            "Have a detailed understanding of GAAP and strong technical accounting skills.",
+            "Have a BA/BS or equivalent in accounting or related field; Certified Public Accountant (CPA) required.",
+            "Have a history of process improvements for accounting operations.",
+            "Have the ability to articulate accounting needs to non-accountants.",
+            "You value both quality and efficiency. You have strong time management skills and know how to prioritize tasks.",
+            "You enjoy problem solving and working with others. You are open to giving feedback to internal stakeholders.",
+            "Have a high bar of excellence. You strive to continuously improve processes and results.",
+            "You enjoy not only accounting (You think excel is fun and love when things tie out), but also have fun working with others."
+          ],
+          "salaryTextList": [
+            "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+            "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+            "The salary range for candidates in the New York City or San Francisco area is $153,000–$183,000.",
+            "The salary range for candidates in the US outside of the New York City / San Francisco area is $135,000–$155,000."
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "jobname": "Growth and Revenue Lead - Strategic Finance",
+        "details":{
+          "localisation": "all",
+          "worktime": "Full-time",
+          "skills":[],
+          "company": "EasyBank",
+          "jobIntroText": [
+            "We are looking for a Strategic Finance leader to join the journey of building the finance team at EasyBank. The strategic finance team is committed to providing meaningful partnership across the business to deliver insights and empower EasyBank towards its big ambitions. As the Growth & Revenue lead, you will help us understand, forecast, and guide strategic decision-making on all things related to sustainable growth. This role will be one of the first strategic finance hires and will report to the VP of Finance and can be based remotely in the US."
+          ],
+          "todoListTitle": "What you’ll do:",
+          "todoList": [
+            "Own our revenue forecast model, projecting new customers all the way down to gross profit.",
+            "Partner with our GTM teams across sales, partnerships, and marketing to guide acquisition budgets, cost targets, and strategy.",
+            "Partner with our data science teams to define and track key growth and operating metrics.",
+            "Build robust unit economics analyses to guide growth and product decisions.",
+            "Play a key role in fundraising, board meetings, and investor reporting.",
+            "Build and manage a team of all-stars over time."
+          ],
+          "prerequisiteListTitle": "You should:",
+          "prerequisiteList": [
+            "Have 6+ years of finance experience in high-growth technology companies (Investment banking and/or private equity experience is a plus but not required).",
+            "Consider yourself an excel nerd and proficient in SQL (can write your own queries). You enjoy digging into the details, making sense of it all, and storytelling through numbers.",
+            "Be a self-starter and first principles thinker. You grasp problems and how to handle them quickly with little direction required. You enjoy tackling new problems and don’t need a prior mental model to think through them.",
+            "Be good with numbers but more importantly with people. You can lead others and work cross-functionally effectively.",
+            "Have a high bar of excellence. You strive to continuously improve processes and results but also know how to prioritize. You own your work completely and with pride.",
+            "Have humility and a team-first attitude. You’re looking to help build a company and for interesting problems to solve, not just to build your resume."
+          ],
+          "salaryTextList": [
+            "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+            "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+            "The salary range for candidates in the New York City or San Francisco area is $170,000–$195,000.",
+            "The salary range for candidates in the US outside of the New York City / San Francisco area is $153,000–$176,000.",
+            "The salary range for candidates in Canada is CAD 160,000–184,000."
+          ]
+        }
+      },
+      {
+        "id": 3,
+        "jobname": "Head of Capital Markets",
+        "details":{
+          "localisation": "all",
+          "worktime": "Full-time",
+          "skills":[],
+          "company": "EasyBank",
+          "jobIntroText": [
+            "EasyBank is attempting to build the bank* for startups. Creating a bank from scratch turns out to be a pretty wild endeavor, so we’re looking to hire a Head of Capital Markets to lead our capital markets strategy.",
+            "As Head of Capital Markets, you will ensure we have access to affordable and flexible capital to back our lending strategy at EasyBank. You will be the primary driver for new and existing relationships with financial institutions through the management of the due diligence process, structuring, modeling, and negotiation of deals. Your work will play a critical role in securing credit and how we develop lending products in the future."
+          ],
+          "todoListTitle": "About Your Role:",
+          "todoList": [
+            "Responsible for developing and maintaining strong relationships with our banking partners, including our lending partners and depository institutions.",
+            "Build, manage, and define EasyBank’s capital markets strategy that fits with our various product lines.",
+            "Create processes across EasyBank, our banking partners, and our capital markets partners providers to run efficiently with minimal errors.",
+            "Partner with Legal, Compliance, Product, Partnerships, and Finance teams to ensure cross-collaboration to drive capital market strategies successfully.",
+            "Act as primary internal, cross-functional quarterback for our Product organization for partner-adjacent endeavors; serve as the lending and fintech ecosystem expert by connecting the dots between EasyBank’s organizational needs and the marketplace.",
+            "Support contract negotiations and drive end-to-end launch execution with partners.",
+            "Support and partner with the Product and Engineering teams as they develop their roadmaps.",
+            "Drive, track, analyze, and communicate key partnership metrics to cross-functional and leadership partners at EasyBank."
+          ],
+          "prerequisiteListTitle": "About You:",
+          "prerequisiteList": [
+            "7+ years in capital markets, ideally with 3+ years of experience in fintech and payments.",
+            "Expert-level knowledge with a strong network in Capital Markets.",
+            "Demonstrated strength and success in sales, partnerships, and negotiations.",
+            "Driven to help entrepreneurs succeed.",
+            "Ability to navigate a dynamic and fast-paced and environment in an organized manner.",
+            "A track record of influencing organizational change, and an ability to synthesize and complete complex problems.",
+            "Broad and deep understanding of commercial lending.",
+            "Clear communication, structured thinking, organization, and project management skills.",
+            "Strong collaborator who can build relationships across the organization.",
+            "Ambitious problem solver in regards to how we drive value with our partners.",
+            "Comfortable working in a highly entrepreneurial environment under minimal guidance."
+          ],
+          "salaryTextList": [
+            "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+            "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+            "The salary range for candidates in the New York City or San Francisco area is $240,000–$300,000.",
+            "The salary range for candidates in the US outside of the New York City / San Francisco area is $200,000–$250,000.",
+            "The salary range for candidates in Canada is CAD 213,000–266,000."
+          ]
+        }
+      },
+      {
+        "id": 4,
+        "jobname": "Payroll Lead",
+        "details":{
+          "localisation": "all",
+          "worktime": "Full-time",
+          "skills":[],
+          "company": "EasyBank",
+          "jobIntroText": [
+            "EasyBank cares a lot about its people, and this manifests most clearly through actions like running payroll correctly and providing thoughtful benefits. We’re growing pretty fast, and core operations are inevitably getting more complex. We’re looking to bring someone onto the ops team who can scale, simplify, and automate these processes.",
+            "You’ll work closely with the Payroll Operations team on to process accurate pay for employees."
+          ],
+          "todoListTitle": "Here are some things you’ll do:",
+          "todoList": [
+            "Own day to day payroll operations, such as processing semi-monthly payroll for employees in US and Canada, contractor payments, off-cycle payrolls and bonuses.",
+            "Provide support to the Operations and People team during open enrollment.",
+            "Provide support to employees for questions regarding earnings, deductions, PTO, and benefits.",
+            "Prepare reports to relevant internal teams.",
+            "Stay up to date with local and state tax requirements and update the payroll system as needed.",
+            "Work closely with our payroll provider to ensure a smooth process.",
+            "Maintain and update our internal payroll process manual.",
+            "Continue to optimize business processes.",
+            "Build relationships with relevant providers, brokers, and other partners and schedule meetings as necessary."
+          ],
+          "prerequisiteListTitle": "You should also:",
+          "prerequisiteList": [
+            "Have a BA/BS or a background you feel is equivalent.",
+            "Familiarity with payroll processes and systems.",
+            "Have a system for staying organized and a good head for numbers.",
+            "Have a high level of integrity and the ability to handle confidential information discreetly.",
+            "Identify as having good common sense.",
+            "Enjoy optimizing processes and thinking about how to automate your job.",
+            "Have a strong preference for working with great tools, and be comfortable working with or learning the tools we use (EasyBank, Gusto, Abacus, Pilot, Middesk, Notion, Slack, etc.).",
+            "Have diverse interests and enjoy learning about other people’s interests.",
+            "Listen with patience, attention, and empathy.",
+            "Have a sense of humor (doesn’t have to be a good one)."
+          ],
+          "salaryTextList": [
+            "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+            "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+            "The salary range for candidates in the New York City or San Francisco area is $125,000–$152,000.",
+            "The salary range for candidates in the US outside of the New York City / San Francisco area is $112,000–$129,000.",
+            "The salary range for candidates in Canada is CAD 111,000–135,000."
+          ]
+        }
+      }]
+  },
+  {
+    "categoryName": "Growth",
+    "jobs": [
+      {
+        "id": 1,
+        "jobname": "Data Scientist",
+        "details":{
+          "localisation": "all",
+          "worktime": "Full-time",
+          "skills":["SQL", "R", "Python"],
+          "company": "EasyBank",
+          "jobIntroText": [
+            "In the 1840s, Charles Babbage and Ada Lovelace worked on an early version of the computer known as the “Analytics Engine”. In the words of computing historian Doron Swade, “What Lovelace saw...was that numbers could represent entities other than quantity” and together they laid the foundation for general-purpose computing.",
+            "While much has changed since then, the importance of numbers in building great technology remains. We’re looking for Data Scientists who can help us build our analytics engine by making meaning from data and identifying opportunities for improvement.",
+            "In this role, you’ll be responsible for proactively deriving data insights and partnering with engineering, marketing, design, onboarding, and other product business teams to inform how we invest in and build EasyBank’s future. You’ll be early to building a data-informed culture across EasyBank so that we can all determine what's happening, react quickly, and invest intelligently."
+          ],
+          "todoListTitle": "Here are some things you’ll do on the job:",
+          "todoList": [
+            "Understand funnels, usage patterns, and long term trends to identify opportunities to improve EasyBank’s products.",
+            "Define and analyze metrics that inform tactical decisions and overall strategy for teams that allow us to monitor the health of our products.",
+            "Educate teams on how to best use data and define best practices for making decisions on prioritization, experimentation, risk models, and more.",
+            "Use a variety of exploratory, data visualization, and statistical techniques to uncover actionable insights, including A/B testing, cohort analysis, regression modeling, trend analysis, user segmentation, and machine learning.",
+            "Assess risk and tradeoffs of different approaches in solutions for Growth, Product, Compliance, or other important areas of the business.",
+            "Influence and partner with engineering, design, and business teams to implement data-based recommendations that will improve entrepreneurs’ lives and generate revenue for EasyBank."
+          ],
+          "prerequisiteListTitle": "You should:",
+          "prerequisiteList": [
+            "Have 2+ years of experience working with product teams on goaling, experimentation, funnels, and finding new opportunities with minimal guidance.",
+            "Have fluency in SQL, and other statistical programming languages (e.g. Python, R, etc.).",
+            "Have experience crafting data pipelines and dashboards, and understand different database structures.",
+            "Have the ability to proactively ask questions, turn them into analyses, and make your case to various stakeholders, including senior leadership.",
+            "And ideally, the know-how to make cool graphs."
+          ],
+          "salaryTextList": [
+            "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+            "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+            "The salary range for candidates in the New York City or San Francisco area is $145,000–$175,000.",
+            "The salary range for candidates in the US outside of the New York City / San Francisco area is $135,000–$150,000.",
+            "The salary range for candidates in Canada is CAD 150,000–180,000."
+          ]
+        }
+      }]
+  },
+  {
+    "categoryName": "Marketing",
+    "jobs": [
+      {
+        "id": 1,
+        "jobname": "Communications Manager (PR)",
+        "details":{
+          "localisation": "all",
+          "worktime": "Full-time",
+          "skills":[],
+          "company": "EasyBank",
+          "jobIntroText": [
+            "We launched in 2019 and have grown quite a bit through word of mouth. Thankfully, our customers seem to like what we’ve built so far:",
+            "EasyBank offers banking* for startups — at any size or stage. With an intuitive product experience, founders can access free checking and savings accounts, debit, and credit cards, domestic, and international wire transfers, treasury, venture debt, and more — and manage their business with confidence. EasyBank also offers vibrant community programs that provide founders with the connections, advice, and resources to help them build the next great companies. Launched in 2019, EasyBank is trusted by more than 100,000 startups.",
+            "Though our customers like our product, there’s a lot more we’d like people to know about EasyBank—so we’re looking for a creative comms pro to help tell our story.",
+            "You’ll be our second in-house communications hire and will play a major role in supporting the Communications Lead in crafting and executing a storytelling strategy that builds awareness for EasyBank within the entrepreneur community. You’ll partner with executives and work cross-functionally to uncover the narratives that highlight EasyBank’s unique point of view, culture, and product. You’ll leverage your own media relations skills to secure press coverage, as well as help manage our PR consultants, and work with the broader marketing team to communicate narratives through content, social media and other mediums."
+          ],
+          "todoListTitle": "Here are some things you’ll do on the job:",
+          "todoList": [
+            "Amplify the EasyBank brand with creative communications strategies and tactics.",
+            "Mine every piece of EasyBank’s product, design philosophy, culture, and team for fresh and interesting stories.",
+            "Support media relations and build relationships with the reporters, podcasters, and Substackers covering fintech, startups, and tech.",
+            "Build and maintain thoughtful media lists across different verticals and update coverage tracker.",
+            "Support in the development of strategic PR plans, clear messaging and communications guidance for initiatives such as product announcements, company news, etc.",
+            "Bring ideas on how to use our data to tell creative stories about the greater tech ecosystem.",
+            "Drive speaking, awards, and execution of thought leadership programs.",
+            "Partner with Communications Lead on leveraging PR measurement tools.",
+            "Stay on top of industry trends and identify opportunities to insert EasyBank into relevant stories.",
+            "Support development and execution of comms programs for EasyBank’s CEO and other key leaders, including PR, content, and speaking opportunities.",
+            "Collaborate with internal teams with communications messaging and strategy."
+          ],
+          "prerequisiteListTitle": "We’re looking for someone that has most of the following skills or qualities, but feel free to apply even if you don’t fit this mold but think you could do a great job. You should:",
+          "prerequisiteList": [
+            "6+ years of PR/Communications experience.",
+            "Have an innate sense for what makes a good story.",
+            "Write with precision, clarity, and authenticity.",
+            "Have a track record of securing coverage with the best reporters covering tech and startups.",
+            "Be comfortable developing proactive angles that journalists bite on.",
+            "Be able to talk about tech companies, banking, software engineering, and business, while still sounding like a real human.",
+            "Take pleasure in the nuance of language and have strong opinions on diction.",
+            "Have a love of startups, and the stories, trends, and personalities that drive the tech ecosystem.",
+            "A trustworthy and dependable team player, who works well with internal cross-functional and external partners, and with the ability to operate under own direction and demonstrate high productivity.",
+            "Candidate should have agency experience with clients in the fintech, startups, venture capital space and/or established financial services companies.",
+            "Get our existing brand and have a natural feel for what’s on brand.",
+            "Care for aesthetics.",
+            "Use Oxford commas.",
+            "Have a sense of humor."
+          ],
+          "salaryTextList": [
+            "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+            "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+            "The salary range for candidates in the New York City or San Francisco area is $151,000–$173,500.",
+            "The salary range for candidates in the US outside of the New York City / San Francisco area is $141,000–$162,000.",
+            "The salary range for candidates in Canada is CAD 134,000–154,000."
+          ]
+        }
+      },
+    {
+      "id": 2,
+      "jobname": "Copywriter",
+      "details":{
+        "localisation": "all",
+        "worktime": "Full-time",
+        "skills":[],
+        "company": "EasyBank",
+        "jobIntroText": [
+          "If copy is the bridge between our product and the world, excellent copy is like the Brooklyn Bridge or Venice’s Ponte De Rialto.",
+          "Good copy communicates what our product does; excellent copy educates widely, evokes a feeling,  establishes our brand’s point of view, and takes root in the mind of the reader.",
+          "Good copy might describe EasyBank as a bundle of financial services; excellent copy would evoke, in just a few words, that EasyBank is a home for a startup’s money where they can send currency around the world, issue cards with custom permissions, and get a taste of banking with a touch of magic – from that first check to millions in revenue.",
+          "Come help us write excellent copy.",
+          "As our newest copywriter, you’ll help tell EasyBank’s story across platforms and polish the high-quality work we do."
+        ],
+        "todoListTitle": "Some things you’ll do:",
+        "todoList": [
+          "Work cross functionally with product and marketing teams to shape the language that informs people’s first impressions of EasyBank and seamlessly carries them onward through the customer journey.",
+          "Craft impactful, empathetic copy that speaks to founders in various places and formats, including webpages, email, digital ads, blog posts, billboards, guides, and social media.",
+          "Partner closely with product marketers to refine messaging, accurately communicate value props, and connect product narratives across channels.",
+          "Collaborate with visual designers to find the most effective way to deliver a message using copy and design.",
+          "Think creatively about the introduction of new formats — e.g., podcast and video — to evolve EasyBank’s storytelling.",
+          "Learn, question, and enhance the EasyBank voice, while seamlessly flexing tone as appropriate.",
+          "Think deeply about how the words we choose reflect our values."
+        ],
+        "prerequisiteListTitle": "The right person can come from a variety of backgrounds, but we think that these qualities would help:",
+        "prerequisiteList": [
+          "You have 2–3 years of experience as a copywriter for a startup or ecommerce brand, and understand the tech ecosystem well enough to detect what type of language should be used where.",
+          "You have a strong ability to prioritize, work independently, and execute quickly.",
+          "You’re incredibly organized and are capable of balancing multiple projects at once.",
+          "You know how to work with editors and iterate on feedback.",
+          "You have strong opinions about language and grammar, including the use of Oxford commas (yes), exclamations (rarely), and em dashes (abundantly).",
+          "You have a knack for distilling complex topics into engaging, useful copy and content.",
+          "You appreciate the EasyBank brand: intuitive, refined, with a dash of intrigue."
+        ],
+        "salaryTextList": [
+          "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+          "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+          "The salary range for candidates in the New York City or San Francisco area is $130,000–$149,500.",
+          "The salary range for candidates in the US outside of the New York City / San Francisco area is $110,500–$127,000.",
+          "The salary range for candidates in Canada is CAD 98,000–112,500."
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "jobname": "Head of Community",
+      "details":{
+        "localisation": "all",
+        "worktime": "Full-time",
+        "skills":[],
+        "company": "EasyBank",
+        "jobIntroText": [
+          "Here at EasyBank we want to empower the next generation of entrepreneurs, and from the product side we’re approaching that by building financial products to give founders confidence to build. After all, capital is critical for a company’s success; but it’s insufficient on its own and many well-funded startups still don’t make it.",
+          "What else does it take to build a great company? As you may know yourself, it can be a long, hard journey. But it doesn’t have to be a lonely one. And there’s a potential to take the tiniest of shortcuts by learning from others.",
+          "That’s why we believe in the power of community, and are looking for a Community Lead to build a strong community in the EasyBank ethos: helpful, high quality, trustworthy. We have some early signals that founders (and investors) want this, too – in 2 years, EasyBank Raise has helped 600+ startups raise $1.7B. And our first go at Founder Forums was oversubscribed by 3x, with 400 startup founders meeting monthly in small groups.",
+          "We’re looking for someone who can scale and innovate on our community programs, making community a true differentiator for EasyBank, and a reason people want to be a EasyBank customer.  The ideal person for this role is a creative thinker with deep founder empathy, and a strategic operator who can lead an existing team of 3 people and partner with others in the company to develop an outstanding set of community programs."
+        ],
+        "todoListTitle": "Some of the specific things you’ll do on the job:",
+        "todoList": [
+          "Manage a team of 3 people (and scale the team as needed), overseeing the existing programs (EasyBank Raise, Founder Forums, Investor Database).",
+          "Ideate and test new program ideas to expand our community, or deepen ties with existing community members.",
+          "Set KPIs that go deep - beyond just the number of people who engage but instead uncovering how many people found the experience super valuable.",
+          "Work cross functionally: with sales and relationship managers who work with our customers daily; with our content and events teams; and with our product team to build things to enhance community efforts."
+        ],
+        "prerequisiteListTitle": "Traits we think will be helpful for the job:",
+        "prerequisiteList": [
+          "Founder, angel investor, or someone who really understands and empathizes with our community members (founders + investors); potentially someone already ingrained in the startup community.",
+          "Strategic + operational chops; someone who has scaled something up, who can think about the big vision, and get down in the details to make sure execution is flawless.",
+          "Creative and able to think outside the box (and create an environment for the team to think creatively, too): we are aiming much higher than a mostly dead slack channel where people just post job openings.",
+          "A strong leader who can mentor the team and work with many other stakeholders, both internal and external."
+        ],
+        "salaryTextList": [
+          "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+          "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+          "The salary range for candidates in the New York City or San Francisco area is $220,000–$250,000.",
+          "The salary range for candidates in the US outside of the New York City / San Francisco area is $185,000–$230,000.",
+          "The salary range for candidates in Canada is CAD 190,000–245,000."
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "jobname": "Product Marketing Manager - Capital",
+      "details":{
+        "localisation": "all",
+        "worktime": "Full-time",
+        "skills":[],
+        "company": "EasyBank",
+        "jobIntroText": [
+          "“One size fits all” may have been a boon for clothing retailers, but it simply doesn’t work for financial products. Depending on a company’s industry, size, and goals, what two companies need out of a bank can be very different. And that’s where we come in.",
+          "At EasyBank, we’re building a better way to bank* for all types of businesses. We started by imagining what the best bank account for startups would be like. Fast forward a few short years, and we are adding more and more financial tools to support businesses as they grow. In just the past six months we have launched Venture Debt, Bill Pay, and the IO credit card. And it’s not just startups - we have customers in ecommerce, non-profit, crypto, and other industries as well.",
+          "Now we’re expanding our product marketing team to launch new EasyBank products, and increase awareness and adoption with our target customers, with the goal of matching each customer with the right set of financial products. We are looking for people who are eager to be embedded within a product team and play a key role in collaborating with our rapidly growing product, engineering, marketing, brand, data science, sales, and compliance teams.",
+          "As the Product Marketing Manager, Capital, you will focus on some of our top priority products, including EasyBank Capital, a program geared at helping customers access funding, including our own Venture Debt product. These products live in a crowded and complicated space, so you will need to identify where EasyBank stands apart, and educate founders and finance teams along the way."
+        ],
+        "todoListTitle": "Here are some of the things you’ll do:",
+        "todoList": [
+          "Seamlessly transition from developing a high-level strategy one day to rolling up your sleeves to get things done the next - this can be anything from writing copy to conducting your own analysis.",
+          "Deeply understand our target customers and the competitive landscape: use quantitative and qualitative data to understand what they need and where the incumbent products available today aren’t cutting it.",
+          "Partner with engineering, design, marketing, and business teams to develop and execute GTM plans to launch new products and support continual adoption and awareness of existing ones. You’ll be responsible for positioning, audience segmentation, key value propositions, and channel strategy.",
+          "Build a strong relationship with Marketing and Brand teams to develop advertising, landing pages, public relations outreach, emails campaigns, case studies, and social posts relating to your products.",
+          "Test, learn, and iterate - it is early days for us and we are open-minded to what the “best” strategy or process will be."
+        ],
+        "prerequisiteListTitle": "You should:",
+        "prerequisiteList": [
+          "Have 3+ years experience in a marketing, growth, or product role, ideally within tech or financial services (fintech experience is a plus).",
+          "Consider yourself a marketing generalist. You are as comfortable discussing a social media or email campaign as you are conducting customer research and defining a product’s go-to-market strategy.",
+          "Pride yourself in being able to influence others and work cross-functionally effectively.",
+          "Know how to prioritize and create long-form documentation to explain your decisions.",
+          "Enjoy storytelling through numbers and testing your assumptions (experience with data analysis and SQL is a big plus).",
+          "Be passionate about solving problems for startup founders. You are excited to talk to users about their financial needs."
+        ],
+        "salaryTextList": [
+          "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+          "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+          "The salary range for candidates in the New York City or San Francisco area is $132,000–$152,000.",
+          "The salary range for candidates in the US outside of the New York City / San Francisco area is $112,000–$129,000."
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "jobname": "Product Marketing Manager - Core Products",
+      "details":{
+        "localisation": "all",
+        "worktime": "Full-time",
+        "skills":[],
+        "company": "EasyBank",
+        "jobIntroText": [
+          "“One size fits all” may have been a boon for clothing retailers, but it simply doesn’t work for financial products. Depending on a company’s industry, size, and goals, what two companies need out of a bank can be very different. And that’s where we come in.",
+          "At EasyBank, we’re building a better way to bank* for all types of businesses. We started by imagining what the best bank account for startups would be like. Fast forward a few short years, and we are adding more and more financial tools to support businesses as they grow. In just the past six months we have launched Venture Debt, Bill Pay, and the IO credit card. And it’s not just startups - we have customers in ecommerce, non-profit, crypto, and other industries as well.",
+          "Now we’re expanding our product marketing team to launch new EasyBank products, and increase awareness and adoption with our target customers, with the goal of matching each customer with the right set of financial products. We are looking for people who are eager to be embedded within a product team and play a key role in collaborating with our rapidly growing product, engineering, marketing, brand, data science, sales, and compliance teams.",
+          "As the Product Marketing Manager, Core Products, you will focus on some of EasyBank’s most beloved and recognizable products, including our mobile app, debit cards, and our recently launched IO credit card. These products live in a crowded and complicated space, so you will work closely with the Cards and Mobile product teams to identify where EasyBank stands apart, and educate founders and finance teams along the way."
+        ],
+        "todoListTitle": "Here are some of the things you’ll do:",
+        "todoList": [
+          "Seamlessly transition from developing a high-level strategy one day to rolling up your sleeves to get things done the next - this can be anything from writing copy to conducting your own analysis.",
+          "Deeply understand our target customers and the competitive landscape: use quantitative and qualitative data to understand what they need and where the incumbent products available today aren’t cutting it.",
+          "Partner with engineering, design, marketing, and business teams to develop and execute GTM plans to launch new products and support continual adoption and awareness of existing ones. You’ll be responsible for positioning, audience segmentation, key value propositions, and channel strategy.",
+          "Build a strong relationship with Marketing and Brand teams to develop advertising, landing pages, public relations outreach, emails campaigns, case studies, and social posts relating to your products.",
+          "Test, learn, and iterate - it is early days for us and we are open-minded to what the “best” strategy or process will be."
+        ],
+        "prerequisiteListTitle": "You should:",
+        "prerequisiteList": [
+          "Have 3+ years experience in a marketing, growth, or product role, ideally within tech or financial services (fintech experience is a plus).",
+          "Consider yourself a marketing generalist. You are as comfortable discussing a social media or email campaign as you are conducting customer research and defining a product’s go-to-market strategy.",
+          "Pride yourself in being able to influence others and work cross-functionally effectively.",
+          "Know how to prioritize and create long-form documentation to explain your decisions.",
+          "Enjoy storytelling through numbers and testing your assumptions (experience with data analysis and SQL is a big plus).",
+          "Be passionate about solving problems for startup founders. You are excited to talk to users about their financial needs."
+        ],
+        "salaryTextList": [
+          "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+          "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+          "The salary range for candidates in the New York City or San Francisco area is $132,000–$152,000.",
+          "The salary range for candidates in the US outside of the New York City / San Francisco area is $112,000–$129,000.",
+          "The salary range for candidates in Canada is CAD 117,500–135,000."
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "jobname": "Sr. Product Marketing Manager - FinOps",
+      "details":{
+        "localisation": "all",
+        "worktime": "Full-time",
+        "skills":[],
+        "company": "EasyBank",
+        "jobIntroText": [
+          "“One size fits all” may have been a boon for clothing retailers, but it simply doesn’t work for financial products. Depending on a company’s industry, size, and goals, what two companies need out of a bank can be very different. And that’s where we come in.",
+          "At EasyBank, we’re building a better way to bank* for all types of businesses. We started by imagining what the best bank account for startups would be like. Fast forward a few short years, and we are adding more and more financial tools to support businesses as they grow. And it’s not just startups - we have customers in e-commerce, non-profit, crypto, and other industries as well.",
+          "Now we’re building a product marketing team to launch new EasyBank products, and increase awareness and adoption with our target customers, with the goal of matching each customer with the right set of products. This is a new team, and we are looking for people who are excited to shape how the team works with team members at EasyBank across product/engineering, brand, sales, customers, and compliance.",
+          "As the Product Marketing Manager - Financial Products, you will focus on some of our top priority products. These products live in a crowded and complicated space, so you will need to identify where EasyBank stands apart, and educate founders and finance teams along the way."
+        ],
+        "todoListTitle": "Here are some of the things you’ll do:",
+        "todoList": [
+          "Deeply understand our target customers and the competitive landscape: use quantitative and qualitative data to understand what they need and where the incumbent products available today aren’t cutting it.",
+          "Develop GTM plans to launch new products and support continual adoption of existing ones - including positioning, audience segmentation, and channel strategy.",
+          "Create goals for growth and adoption of our products, and collaborate cross-functionally to exceed them.",
+          "Test, learn, and iterate - it is early days for us and we are open-minded to what the “best” strategy will be.",
+          "Roll up your sleeves to get things done - this can be anything from writing a press release to negotiating a sponsorship to interviewing customers, or whatever the project requires."
+        ],
+        "prerequisiteListTitle": "We think a successful candidate will have some of the following qualities:",
+        "prerequisiteList": [
+          "6+ years experience, with at least a few years at a tech company (fintech a plus but not required).",
+          "Prioritize using a mix of data and first principles.",
+          "Enjoy poking holes and thinking about problems from multiple angles.",
+          "Advocate for the customer, and adapt strategy for different customer segments.",
+          "Be super organized, but not rigid.",
+          "Thrive in fast-paced, collaborative environments."
+        ],
+        "salaryTextList": [
+          "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+          "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+          "The salary range for candidates in the New York City or San Francisco area is $160,000–$192,000.",
+          "The salary range for candidates in the US outside of the New York City / San Francisco area is $142,000–$163,500.",
+          "The salary range for candidates in Canada is CAD 148,500–170,500."
+        ]
+      }
+    }]
+  },
+  {
+    "categoryName": "People and Operations",
+    "jobs": [
+      {
+        "id": 1,
+        "jobname": "Compensation Partner",
+        "details":{
+          "localisation": "all",
+          "worktime": "Full-time",
+          "skills":[],
+          "company": "EasyBank",
+          "jobIntroText": [
+            "At EasyBank we care a lot about our people. A thoughtful compensation program is a key part of attracting and taking care of our team. We are looking for someone who can build out and scale our compensation processes and philosophy.",
+            "In this role, you will work closely with the People Partner team, Head of People, and founders to own and run our compensation programs—from merit increases to benchmarking to our equity plan."
+          ],
+          "todoListTitle": "Here are some things you’ll do on the job:",
+          "todoList": [
+            "Be the internal expert on everything compensation and think deeply about how EasyBank should pay based on the external market and hiring conditions.",
+            "Influence leadership to think critically about pay and equity.",
+            "Lead efforts to educate EasyBank employees (both managers and ICs) on our compensation philosophy, ensuring appropriate transparency.",
+            "Build out an equity strategy and partner with our Operations team to execute on that strategy.",
+            "Build a process and lead EasyBank through our first merit increase program tied to Performance Reviews and think about how to streamline the process for future cycles.",
+            "Conduct regular market evaluations to ensure we are staying competitive and then build a process for benchmarking internal salaries as the market adjusts.",
+            "Research and formulate recommendations on offers, job leveling, and internal equity adjustments.",
+            "Be the go-to person for any compensation questions at EasyBank."
+          ],
+          "prerequisiteListTitle": "Ideally, you’ll have some of the following qualities—but if you don’t fit this mold and feel like you could do a great job, we’d love to hear from you anyway:",
+          "prerequisiteList": [
+            "Have a bachelor’s degree or something you feel is equivalent.",
+            "Have experience running or building compensation programs at a high growth, quickly scaling company.",
+            "Love playing around in data and have a rigorous data analytics skills.",
+            "Understand how granular data is driving a larger talent strategy.",
+            "Be willing to influence and advocate for philosophies you believe in.",
+            "Be passionate about tackling problems and solving them in an creative and thoughtful way.",
+            "Have a high level of integrity and the ability to handle confidential information discreetly.",
+            "Have a passion for working efficiently with great tools, suggest new tools where there are opportunities for improvement, and be willing to learn the tools we are currently using (OpenComp, Gusto, Humi, Notion).",
+            "Have a ton of fun while doing everything above."
+          ],
+          "salaryTextList": [
+            "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+            "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+            "The salary range for candidates in the New York City or San Francisco area is $144,000–$171,000.",
+            "The salary range for candidates in the US outside of the New York City / San Francisco area is $126,000–$146,000.",
+            "The salary range for candidates in Canada is CAD 105,000–120,500."
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "jobname": "Learning and Development Lead",
+        "details":{
+          "localisation": "all",
+          "worktime": "Full-time",
+          "skills":[],
+          "company": "EasyBank",
+          "jobIntroText": [
+            "As a company, EasyBank is growing very quickly and this growth demands consistent up-leveling of skills internally as we scale. We believe that every employee should scale as EasyBank scales and training is a critical component of that.",
+            "Given this, we want to create Learning and Development programming for our employees. We are excited about creating an unparalleled course catalog and reinforcing our commitment to learning.",
+            "We are looking for someone who can turn EasyBank’s values into meaningful coursework, build a best in class “EasyBank U”, and provide growth opportunities for EasyBank employees based on their interests and needs of the company. You will oversee the learning infrastructure at EasyBank. You will be the go-to person for advice on development across EasyBank, and you will partner with People Partners to coach managers on developing and growing teams."
+          ],
+          "todoListTitle": "This person will:",
+          "todoList": [
+            "Work with leadership, the People team and managers across EasyBank to assess skills and experience gaps to understand where EasyBank employees want and need to grow.",
+            "Execute on meaningful development programs and values or skills based trainings based on internal and external research.",
+            "Build trainings that are unique, creative, and interactive so EasyBank employees are delighted, excited, and engaged in the learning experience.",
+            "Facilitate and moderate live trainings in an engaging and creative way.",
+            "Build meaningful leadership development programming for aspiring managers, new managers and tenured managers so that EasyBank is known as a company that creates and invests in great leaders.",
+            "Research and find external vendors who can deliver trainings that meet our needs in a way that fits culturally with EasyBank (where EasyBank doesn’t have the bandwidth or expertise to build programming ourselves).",
+            "Partner with our People Ops team on how we educate employees about best practices related to people processes (performance reviews, engagement surveys).",
+            "Partner with our DEIB cosmic communities (ERGs) and DEIB Chamber to build trainings on Diversity, Equity, Inclusion, and Belonging work, and generally think about how we can better integrate DEIB across more conversations at EasyBank.",
+            "Assess our current offerings and build out additional onboarding trainings so new hires have a deep understanding of our product coming into EasyBank.",
+            "Create and maintain documentation and resources for all EasyBank employees so they can self-serve on hot topics.",
+            "Measure the impact and efficacy of programs and leverage that data to help drive decisions in the L&D space.",
+            "Own our Learning Management Software (Lessonly) and determine ways we can further invest in LMS usage, and evaluate if there are better LMS options."
+          ],
+          "prerequisiteListTitle": "Ideally, you’ll have some of the following qualities:",
+          "prerequisiteList": [
+            "Experience building internal trainings and programs that can scale in a meaningful way",
+            "At least 2 years of experience holding an L&D position in a similar tech / startup environment",
+            "Experience building creative, out of the box trainings/programs that stretch the standards of L&D",
+            "Willingness to influence and advocate for philosophies you believe in",
+            "Passion for tackling problems and solving them in a creative and thoughtful way",
+            "Demonstrated ability to use data to inform decisions on the effectiveness of a learning strategy",
+            "Experience leveraging technology to create meaningful, high-impact learning",
+            "Expertise in learning design and project/program management, especially in initiatives that impact large groups and require cross-functional partnership"
+          ],
+          "salaryTextList": [
+            "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+            "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+            "The salary range for candidates in the New York City or San Francisco area is $136,000–$160,000.",
+            "The salary range for candidates in the US outside of the New York City / San Francisco area is $115,000–$133,000.",
+            "The salary range for candidates in Canada is CAD 121,000–142,000."
+          ]
+        }
+      },
+      {
+        "id": 3,
+        "jobname": "Senior Design Recruiter",
+        "details":{
+          "localisation": "all",
+          "worktime": "Full-time",
+          "skills":[],
+          "company": "EasyBank",
+          "jobIntroText": [
+            "EasyBank is building financial products to help startups and small businesses scale. Turns out this requires a lot of people, so we’re looking to add a Senior Design Recruiter to our Recruiting team!",
+            "EasyBank is an extremely design-centric company, and we take pride in beautiful UI that creates a straightforward and easy-to-use experience for our customers. We’re looking for a Recruiter with deep experience identifying and attracting Design talent to play a key role in scaling our world-class Design team."
+          ],
+          "todoListTitle": "Here are some things you’ll do on the job:",
+          "todoList": [
+            "Work closely with hiring managers and Design leaders to build high-performing, diverse teams.",
+            "Run a recruiting pipeline end-to-end with an emphasis on engaging passive candidates.",
+            "Stay closely aligned on company priorities and develop a deep understanding of EasyBank’s values, brand, and product.",
+            "Monitor pipeline performance and leverage data to optimize hiring processes for evergreen and single-headcount requisitions.",
+            "Experiment with new recruiting channels and analyze their effectiveness.",
+            "Champion diversity and inclusion initiatives.",
+            "Actively think of ways to improve and scale recruiting processes."
+          ],
+          "prerequisiteListTitle": "You should:",
+          "prerequisiteList": [
+            "Have recruited for Design roles in the past; you know how to spot an amazing portfolio and you specifically enjoy engaging Design talent.",
+            "Have full-cycle recruiting experience, ideally in a high growth and/or Design agency environment.",
+            "Enjoy seeking out passive talent and have creative sourcing strategies in your tool kit.",
+            "Have an almost psychic level of empathy and intuition, and you care deeply about candidate experience.",
+            "Communicate with clarity, thought, and precision.",
+            "Constantly be thinking about how to optimize your workflows and increase efficiency.",
+            "Be creative and enjoy tackling challenging problems."
+          ],
+          "salaryTextList": [
+            "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+            "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+            "The salary range for candidates in the New York City or San Francisco area is $125,000–$150,000.",
+            "The salary range for candidates in the US outside of the New York City / San Francisco area is $115,000–$130,000.",
+            "The salary range for candidates in Canada is CAD 111,000–128,000."
+          ]
+        }
+      },
+      {
+        "id": 4,
+        "jobname": "Senior Technical Recruiter",
+        "details":{
+          "localisation": "all",
+          "worktime": "Full-time",
+          "skills":[],
+          "company": "EasyBank",
+          "jobIntroText": [
+            "Turns out building EasyBank has required a lot of people (especially engineers), so we’re looking to add a Senior Technical Recruiter to our team.",
+            "As the main hiring partner for our CTO and engineering leadership, you’ll play a big role in our growth as a company and will help shape the culture of our largest team."
+          ],
+          "todoListTitle": "Here are some things you’ll do on the job:",
+          "todoList": [
+            "Develop a deep understanding of EasyBank’s values, brand, and product.",
+            "Work closely with executives, managers and interviewers to build high-performing engineering teams.",
+            "Make a friendly first impression on candidates and (no pressure) act as the living embodiment of our cultural values.",
+            "Run a recruiting pipeline end to end with an emphasis on engaging passive candidates.",
+            "Identify and excite top talent and provide them an exceptional experience throughout the entire recruiting funnel.",
+            "Help hiring managers and interviewers make decisions on candidates.",
+            "Stay closely aligned on company priorities.",
+            "Monitor pipeline performance and share metrics with other team members.",
+            "Champion diversity and inclusion initiatives.",
+            "Experiment with new recruiting channels and analyze their effectiveness.",
+            "Actively think of ways to improve and scale recruiting processes.",
+            "Welcome new hires and act as a super helpful sage on all things EasyBank as they onboard."
+          ],
+          "prerequisiteListTitle": "You should:",
+          "prerequisiteList": [
+            "Have a bachelor’s degree or something you feel is equivalent.",
+            "Have full-cycle recruiting experience across several technical roles.",
+            "Have experience growing world-class technical teams.",
+            "Enjoy seeking out passive talent.",
+            "Have an almost psychic level of empathy and intuition.",
+            "Communicate with clarity, thought, and precision.",
+            "Enjoy learning about and talking to people.",
+            "Think about how to automate as much of your job as possible.",
+            "Keep track of what you’re working on even when you’re working on a hundred different things.",
+            "Use creativity while working within difficult constraints."
+          ],
+          "salaryTextList": [
+            "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+            "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+            "The salary range for candidates in the New York City or San Francisco area is $125,000–$150,000.",
+            "The salary range for candidates in the US outside of the New York City / San Francisco area is $115,000–$130,000.",
+            "The salary range for candidates in Canada is CAD 111,000–128,000."
+          ]
+        }
+      }]
+  },
+  {
+    "categoryName": "Product",
+    "jobs":[ 
+      {
+        "id": 1,
+        "jobname": "Product Manager",
+        "details":{
+          "localisation": "all",
+          "worktime": "Full-time",
+          "skills":[],
+          "company": "EasyBank",
+          "jobIntroText": [
+            "As a Product Manager at EasyBank, you will collaborate with designers, engineers, and other key partners to ship high quality products to our customers. You’ll be accountable for understanding customers and the business, developing strategy, prioritizing the roadmap, and keeping the team unblocked and executing at a high-level.",
+            "You will keep the team outcome-oriented — using qualitative and quantitative metrics to guide decision-making. Further, you will ensure the entire team feels a sense of ownership over product direction and results.",
+            "While you will focus on a particular area, you’ll develop a point of view on how our products fit into EasyBank more broadly — working with teams like Risk, Onboarding, Growth, Legal, and Compliance.",
+            "We are open to applications at multiple experience levels (junior, mid-level, senior, etc.)"
+          ],
+          "todoListTitle": "You will:",
+          "todoList": [
+            "Gain a deep understanding of our current and potential customers’ needs.",
+            "Gain a deep understanding of the market and EasyBank’s products today.",
+            "Leverage data and research to inform decision making.",
+            "Create clarity and ensure the team is tracking to the roadmap of what we are building.",
+            "Collaboratively prioritize and detail projects with designers and engineers.",
+            "Develop strong, collaborative partnership within your team, execs, and broadly within EasyBank."
+          ],
+          "prerequisiteListTitle": "You should:",
+          "prerequisiteList": [
+            "Empathize with customers — know how to understand customer needs and translate those into products and value props that resonate with end users.",
+            "Understand data — be able to use data to inform decisions and set success metrics.",
+            "Understand research — collaborate with design to run exploratory and usability focused research.",
+            "Identify great products — help your design partner deliver valuable experiences.",
+            "Prioritize requirements — define and deliver on focused specs.",
+            "Manage large projects — balance a variety of stakeholders to ensure a project stays on track and is delivered at high quality.",
+            "Communicate clearly — keep technical and non-technical partners on the same page throughout projects, using both verbal and written language.",
+            "Collaborate with engineers and designers — foster a strong relationship and working model with your closest collaborators ; ensure everyone feels heard on product direction.",
+            "Drive accountability — hold yourself and others accountable in service of great work."
+          ],
+          "salaryTextList": [
+            "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+            "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+            "The salary range for candidates in the US is $150,000–$207,000.",
+            "The salary range for candidates in Canada is CAD 133,500–153,500."
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "jobname": "VP of Product",
+        "details":{
+          "localisation": "all",
+          "worktime": "Full-time",
+          "skills":[],
+          "company": "EasyBank",
+          "jobIntroText": [
+            "The first photographs were viewed as nothing more than objects created by skilled laborers, like a chest of drawers, or a bolt of silk. Photography’s transmutation into fine art came not because of any advancement in technology; the shift happened in the mind, with a simple concept — that picking the right subject, at the right time, with skilled care and creativity, can create something more than just a facile reproduction of reality.",
+            "EasyBank is attempting to build the bank for startups. While it would be a massive act of hubris to think that building a fintech banking stack is anything akin to fine art, we do believe that if you think about it in the right way, a Product can be something more than a mere object to be used — that picking just the right things to build, at the right time, with skilled care and creativity, can create a minor piece of magic."
+          ],
+          "todoListTitle": "We’re looking to hire a VP of Product to help us create this magic. If the above was a little fluffy for you, forgive us: it’s the house style. Here are a few specific areas we expect you to work on in this job:",
+          "todoList": [
+            "Product strategy and decision-making — help teams and product leaders think through product problems large and small, gain extreme confidence in their judgments, and build a balanced product portfolio.",
+            "Process, execution, and rigor — help us scale mature product practices across a variety of complex teams and product lines, and set goals and KPIs to measure success.",
+            "Product craft — help product teams deliver quality features and unlock their creative potential.",
+            "Product culture — we have a culture of distributing product ownership across everyone in the company, no matter their function. You should help amplify that and distribute product knowledge and ability across the company, as widely as possible, to as many teams as possible.",
+            "Organizational scaling and hiring — build a team of really excellent product managers, and make sure product teams are structured for efficacy.",
+            "Collective collaborative consciousness — help product teams achieve a state of continuous shoaling (like fish).",
+            "End-to-end business ownership — there are vast swaths of “non-product” product work that we expect business people that work on product to cover, including partnerships, ops, brand, and go-to-market strategy. These things are particularly relevant to the product org because we’re partially a financial services company, and there will always be product gaps that need to be papered over by people and processes."
+          ],
+          "prerequisiteListTitle": "And here are some traits we think would be helpful for the job:",
+          "prerequisiteList": [
+            "Experience building, leading, and scaling product teams across a wide surface area.",
+            "Experience building a complex product, and managing tradeoffs between widely disparate axes of development.",
+            "Strong understanding of product principles and processes — you should be great at figuring out how to build highly effective, efficient product teams.",
+            "Strong understanding of data — you should be great at making sound decisions with data, partnering with the data science team, and picking nuanced, balanced metrics.",
+            "Strong intuitive understanding of product — you should be able to balance data-driven decisions against product intuitions.",
+            "Strong design sense — a big piece of our differentiation is thoughtful design. You should have reasonably good taste across both product and brand/visual design, and understand intuitively what is and isn’t on brand.",
+            "You like teaching — you’d enjoy creating and scaling meaningful product work across the company on teams like onboarding, support, compliance, sales, etc.",
+            "You really love customers — we’re very customer-driven, and have a pretty interesting and particular set of users.",
+            "Great at building relationships with a wide range of people — product work is distributed, so you’ll be working with designers, engineers, and all different types of business people constantly.",
+            "Strong storytelling — we would love to see thoughtful, scalable writing about our users, product, practices, etc.",
+            "You love balance — between simplicity and complexity, experimentation and exploitation, adaptability and focus, modernity and classicism.",
+            "A sense of humor."
+          ],
+          "salaryTextList": [
+            "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+            "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+            "The salary range for candidates in the US is $350,000–$400,000."
+          ]
+        }
+      }]
+  },
+  {
+    "categoryName": "Underwriting",
+    "jobs":[ 
+      {
+        "id": 1,
+        "jobname": "Credit Card Analyst",
+        "details":{
+          "localisation": "all",
+          "worktime": "Full-time",
+          "skills":[],
+          "company": "EasyBank",
+          "jobIntroText": [
+            "EasyBank is building financial products for startups. We are looking for a Credit Card Analyst to help us build our underwriting approach to our credit products.",
+            "In this role, you’ll be focused on managing the approval, closing, monitoring, and reporting of our credit relationships. You will be assessing the risk profiles of our customers and helping to ensure EasyBank strikes an appropriate balance between expanding our customer base while protecting the company from unnecessary credit losses, as we continue to roll out financial products to improve banking for entrepreneurs and founders globally."
+          ],
+          "todoListTitle": "You will:",
+          "todoList": [
+            "Review business financials and monthly reporting for new and ongoing EasyBank customers.",
+            "Conduct ongoing risk assessments of our quickly growing portfolio of credit.",
+            "Build trust-based relationships with our clients, providing accurate and timely information and responses as needed.",
+            "Help us build a technology-driven approach to underwriting and our credit products, constantly focusing on improving the founders’ experience.",
+            "Have opportunities to partner with the card product team to help develop future products based on risk analysis.",
+            "Play a role in shaping EasyBank’s philosophy to approach risk and underwriting as we launch new credit products."
+          ],
+          "prerequisiteListTitle": "You should:",
+          "prerequisiteList": [
+            "Understand and be excited by the opportunity to work directly with founders and executives from early-stage startups and e-commerce companies.",
+            "Lean into ambiguity and be excited to create with our team.",
+            "Have an ability and desire to dig into numbers and derive meaningful insights and action.",
+            "Have an eye for detail and an analytical mindset."
+          ],
+          "salaryTextList": [
+            "Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.",
+            "The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.",
+            "The salary range for candidates in the New York City or San Francisco area is $120,000–$150,000.",
+            "The salary range for candidates in the US outside of the New York City / San Francisco area is $111,000–$128,000.",
+            "The salary range for candidates in Canada is CAD 116,500–134,000."
+          ]
+        }
+      }]
+  }
+]

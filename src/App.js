@@ -8,6 +8,7 @@ import About from './components/About';
 import Careers from "./components/Careers";
 import Blog from "./components/Blog";
 import Post from "./components/Post";
+import JobDescription from "./components/JobDescription";
 
 export default function App() {
   return (
@@ -20,6 +21,7 @@ export default function App() {
         <Route exact path="/blog" element={<Blog />} />
         <Route exact path="/blog/:name" element={<Post />} />
         <Route exact path="/careers" element={<Careers />} />
+        <Route exact path="/careers/:jobname" element={<JobDescription />} />
         <Route path="*" element={<Page404 />} />
       </Routes>
       <Footer />
