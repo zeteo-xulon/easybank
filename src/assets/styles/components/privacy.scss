@@ -1,0 +1,28 @@
+.privacy{
+  display: flex;
+  flex-flow: column nowrap;
+  width: 80%;
+  max-width: 60rem;
+  margin: 5rem auto;
+  gap: 4rem;
+  &__main-title{
+    @include bigTitleStretch;
+  }
+  &__header{
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 2rem;
+  }
+  &__paragraph{
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 2rem;
+  }
+  &__title{
+    font-size: clamp(1.7rem, 5vw, 2rem);
+    font-weight: 400;
+  }
+  &__text{
+    text-align: justify;
+  }
+}

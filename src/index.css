@@ -1142,6 +1142,36 @@
     margin: 3rem auto;
   }
 }
+.privacy {
+  display: flex;
+  flex-flow: column nowrap;
+  width: 80%;
+  max-width: 60rem;
+  margin: 5rem auto;
+  gap: 4rem;
+}
+.privacy__main-title {
+  font-size: clamp(1.8rem, 6vw, 3rem);
+  font-weight: 400;
+}
+.privacy__header {
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 2rem;
+}
+.privacy__paragraph {
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 2rem;
+}
+.privacy__title {
+  font-size: clamp(1.7rem, 5vw, 2rem);
+  font-weight: 400;
+}
+.privacy__text {
+  text-align: justify;
+}
+
 @font-face {
   font-family: "PublicSansLight";
   src: url("/src/assets/fonts/PublicSans-Light.ttf") format("truetype");

@@ -30,8 +30,8 @@ export default function Footer() {
           <Link to={"/blog"} className="footer__link">Blog</Link>
         </div>
         <div className="footer__link-container">
-          <Link to={"/career"} className="footer__link">Career</Link>
-          <Link to={"/support"} className="footer__link">Support</Link>
+          <Link to={"/careers"} className="footer__link">Careers</Link>
+          <Link to={"/"} className="footer__link">Support</Link>
           <Link to={"/privacy-policy"} className="footer__link">Privacy Policy</Link>
         </div>
       </aside>

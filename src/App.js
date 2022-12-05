@@ -10,6 +10,7 @@ import Blog from "./components/Blog";
 import Post from "./components/Post";
 import JobDescription from "./components/JobDescription";
 import Invite from "./components/Invite";
+import Privacy from "./components/Privacy";
 
 export default function App() {
   return (
@@ -24,6 +25,7 @@ export default function App() {
         <Route exact path="/careers" element={<Careers />} />
         <Route exact path="/careers/:jobname" element={<JobDescription />} />
         <Route exact path="/invite" element={<Invite />} />
+        <Route exact path="/privacy-policy" element={<Privacy />} />
         <Route exact path="*" element={<Page404 />} />
       </Routes>
       <Footer />
