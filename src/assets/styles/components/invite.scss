@@ -1,0 +1,43 @@
+.invite{
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  gap: 4rem;
+  width: 80%;
+  max-width: 50rem;
+  margin: 10rem auto;
+  border: 2px solid $primary-color-two;
+  border-radius: 1rem;
+  padding: 5vw;
+
+  &__text-container{
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    justify-content: center;
+  }
+  &__title{
+    @include midTitleStretch;
+    text-align: center;
+  }
+  &__text{
+    font-size: clamp(.7rem, 2.5vw, 1rem);
+    color: $Neutral-color-one;
+    text-align: center;
+  }
+  &__btn{
+    border: 0px solid black;
+  }
+  &__email{
+    padding: 1rem;
+    border: 2px solid $primary-color-two;
+    border-radius: 1rem;
+    width: 100%;
+  }
+}
+
+@media screen and(max-width: 768px) {
+  .invite{
+    margin: 3rem auto;
+  }
+}

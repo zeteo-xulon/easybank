@@ -1,0 +1,87 @@
+.job-description{
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 3rem;
+  padding: 0rem $sideSize;
+
+  &__icon{
+    height: 32px;
+    width: 32px;
+    color: $primary-color-two;
+  }
+
+  &__header{
+    display: flex;
+    flex-flow: column nowrap;
+    gap: .5rem;
+    color: $Neutral-color-one;
+    margin-top: 3rem;
+    &__title{
+      @include midTitle;
+      padding-bottom: 1rem;
+      color: $primary-color-one;
+    }
+    &__container{
+      display: flex;
+      gap: .5rem;
+      align-items: center;
+    }
+  }
+
+  &__paragraph{
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 3rem;  
+  }
+}
+
+.job-description__paragraph > ul{
+  margin-left: 1rem;
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 1rem;
+}
+.job-description__paragraph > ul > p {
+  margin-left: -1rem;
+}
+.job-description__paragraph > span{
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 2em;
+}
+
+.job-description__button{
+  display: flex;
+  gap: 1rem;
+  justify-content: space-around;
+  align-items: center;
+  padding: 2rem 0rem 5rem ;
+}
+.apply-btn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 0px solid white;
+  border-radius: 10rem;
+  background: $linear-color;
+  color: $Neutral-color-four;
+  padding: 1rem;
+  cursor: pointer;
+  &:hover{
+    @include btn-hover;
+  }
+}
+.why-btn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid $primary-color-two;
+  border-radius: 10rem;
+  background: transparent;
+  color: $primary-color-two;
+  padding: 1rem;
+  text-decoration: none;
+  &:hover{
+    @include btn-hover;
+  }
+}

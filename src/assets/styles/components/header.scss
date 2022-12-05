@@ -1,102 +1,126 @@
-.header{
-  display: flex;
-  flex-flow: row nowrap;
-  justify-content: space-around;
-  align-items: center;
-  height: 5rem;
+.header {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: space-around;
+	align-items: center;
+	height: 5rem;
 }
-.nav{
-  display: flex;
-  flex-flow: row nowrap;
-  justify-content: center;
-  gap: .5rem;
-  background-color: transparent;
-  &-link{
-    text-decoration: none;
-    color: $Neutral-color-one;
-    font-weight: 300;
-    &:hover{
-      color: black;
-    }
-  }
-  &__link-container{
-    display: flex;
-    flex-flow: row nowrap;
-    justify-content: space-between;
-    align-items: center;
-    gap: 1rem;
-    &__bg{
-      display: none;
-      position:absolute;
-      z-index: 99;
-      background: linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7));
-      width: 100%;
-      height: 80%;
-      top: 3rem;
-      
-      left: 0;
-    }
-    &--sm{
-      position: absolute;
-      z-index: 100;
-      display: flex;
-      flex-flow: column nowrap;
-      justify-content: center;
-      align-items: center;
-      gap: 1rem;
-      background-color: white;
-      width: 90%;
-      padding: 1rem;
-      top: 4rem;
-      left: 5%;
-      border-radius: 5px;
-    }
-  }
-  &__container-menu{
-    display: flex;
-    justify-content: center;
-    align-items: flex-end;
-  }
-  &__menu-on{
-    background: url("/src/assets/images/icon-hamburger.svg") center no-repeat;
-    background-size: 100%;
-    height: 5vw;
-    width: 5vw;
-  }
-  &__menu-off{
-    background: url("/src/assets/images/icon-close.svg") center no-repeat;
-    background-size: 100%;
-    height: 5vw;
-    width: 5vw;
-  }
+.nav {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+	height: 100%;
+	gap: 0.5rem;
+	background-color: transparent;
+
+	&__link-container {
+		display: flex;
+		flex-flow: row nowrap;
+		justify-content: space-between;
+		align-items: center;
+		height: 100%;
+		gap: 1rem;
+		&__bg {
+			display: none;
+			position: absolute;
+			z-index: 99;
+			background: $linear-color;
+			width: 100%;
+			height: 80%;
+			top: 3rem;
+			left: 0px;
+		}
+		&--sm {
+			position: absolute;
+			z-index: 100;
+			display: flex;
+			flex-flow: column nowrap;
+			justify-content: center;
+			align-items: center;
+			gap: 1rem;
+			background-color: white;
+			width: 90%;
+			padding: 1rem;
+			top: 4rem;
+			left: 5%;
+			border-radius: 5px;
+		}
+	}
+	&__container-menu {
+		display: flex;
+		justify-content: center;
+		align-items: flex-end;
+	}
+	&__menu-on {
+		background: url("/src/assets/images/icon-hamburger.svg") center no-repeat;
+		background-size: 100%;
+		height: 5vw;
+		width: 5vw;
+	}
+	&__menu-off {
+		background: url("/src/assets/images/icon-close.svg") center no-repeat;
+		background-size: 100%;
+		height: 5vw;
+		width: 5vw;
+	}
 }
 
-.header-request{
-  display: flex;
+.nav-link {
+	text-decoration: none;
+	color: $Neutral-color-one;
+	font-weight: 300;
+	margin: auto;
+	&:hover {
+		color: black;
+		& + .linear-box {
+			background: linear-gradient(
+				90deg,
+				$primary-color-two,
+				$primary-color-three
+			);
+		}
+	}
+}
+.linear-box__container {
+	display: flex;
+	flex-flow: column;
+	justify-content: space-between;
+	height: 100%;
+}
+.linear-box {
+	background: transparent;
+	height: 5px;
+}
+
+.header-request {
+	display: flex;
 }
 
 @media screen and (max-width: 768px) {
-  .header{
-    justify-content: space-between;
-    padding: 1rem;
-    height: 3rem;
-  }
-  .nav{
-    background-color: white;
-    display: flex;
-    flex-flow: column nowrap;
-    justify-self: center;
-    align-items: center;
-    &-link{
-      color: black;
-    }
-    &__link-container{
-      &__bg{
-        display: block;
-      }
-    }
-  }
-  .header-request{
-    display: none;
-  }
+	.header {
+		justify-content: space-between;
+		padding: 1rem;
+		height: 3rem;
+	}
+	.nav {
+		background-color: white;
+		display: flex;
+		flex-flow: column nowrap;
+		justify-self: center;
+		align-items: center;
+		&-link {
+			color: black;
+		}
+		&__link-container {
+			&__bg {
+				display: block;
+			}
+		}
+	}
+	.header-request {
+		display: none;
+	}
+	.nav-link:hover  + .linear-box {
+		background: transparent;
+	}
 }

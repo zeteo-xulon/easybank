@@ -7,6 +7,13 @@ export default function Nav() {
   const [toggleMenu, setToggleMenu] = useState(false);
   const [stockedWidth, setStockedWidth] = useState(window.innerWidth);
   const data = useContext(DataContext);
+  const linkList = [
+    { id: 1, name: "Home", url: "/" },
+    { id: 2, name: "About", url: "/about" },
+    { id: 3, name: "Contact", url: "/contact" },
+    { id: 4, name: "Blog", url: "/blog" },
+    { id: 5, name: "Careers", url: "/careers" },
+  ];
   
   useEffect(()=> {
     window.addEventListener('resize', () => { setStockedWidth(window.innerWidth) });
@@ -46,17 +53,23 @@ export default function Nav() {
         { smartphoneSize && toggleMenu ?  <div className="nav__menu-off" id="menuOff" ></div> : "" }
       </div>
 
-     
        {
         !smartphoneSize || toggleMenu ? 
           <>
             <div className="nav__link-container__bg"></div>
-            <div className={ !smartphoneSize ? "nav__link-container" : "nav__link-container--sm"}> 
-              <Link to={"/"} className="nav-link">Home</Link>
-              <Link to={"/about"} className="nav-link">About</Link>
-              <Link to={"/contact"} className="nav-link">Contact</Link>
-              <Link to={"/blog"} className="nav-link">Blog</Link>
-              <Link to={"/careers"} className="nav-link">Careers</Link>
+            <div className={ !smartphoneSize ? "nav__link-container" : "nav__link-container--sm"}>
+
+            {
+              linkList.map((link)=>{
+                return (
+                  <div key={"link-box_" + link.id} className="linear-box__container">
+                    <Link to={String(link.url)} className="nav-link">{link.name}</Link>
+                    <div className="linear-box"></div>
+                  </div>
+                )
+              })
+            }
+  
             </div>
           </>
           : ""

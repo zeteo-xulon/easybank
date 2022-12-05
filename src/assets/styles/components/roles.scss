@@ -1,13 +1,17 @@
-roles{
+.roles{
   &__header{
     &__title{
-
+      @include title;
+      margin-bottom: .5rem;
     }
     &__sub{
-
+      @include sub;
+      margin-bottom: 3rem;
     }
   }
   &__job{
-    
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 3rem;
   }
 }

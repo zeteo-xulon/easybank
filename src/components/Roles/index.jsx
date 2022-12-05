@@ -21,7 +21,7 @@ export default function Roles() {
       <div className="roles__job">
       {
         careers?.map((cat, i)=>{
-          return( <Category key={cat.categoryName + i} category={cat} index={i} /> )
+          return( <Category key={cat.categoryName + i} category={cat} /> )
         })
       }
       </div>
